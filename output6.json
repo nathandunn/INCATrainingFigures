@@ -1,0 +1,4577 @@
+2018.11.10 15:18:01 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 1835818/7275808=0.25231809305578157 is less than 0.4, skipping
+2018.11.10 15:18:01 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:18:04 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(E) KC and "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1677[39m, [32m1083[39m))
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(F) MIP-2 were measured using Bio-Rad Bio-Plex assay. n = 6\ufffd\ufffd\ufffd8 in each group and P"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A) IL-6, "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1677[39m, [32m1083[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(B) IL-10, "[39m),
+    [33mList[39m()
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) TNF-\ufffd\ufffd, "[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D) IFN-\ufffd\ufffd, "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1677[39m, [32m1083[39m))
+  )
+)
+2018.11.10 15:18:06 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 1866851/7088600=0.26335961967102106 is less than 0.4, skipping
+2018.11.10 15:18:06 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:18:08 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(E) KC and "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1674[39m, [32m1057[39m))
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(F) MIP-2 were measured using Bio-Rad Bio-Plex assay. n = 6\ufffd\ufffd\ufffd8 in each group and P"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1674[39m, [32m1057[39m))
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A) IL-6, "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1674[39m, [32m1057[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(B) IL-10, "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1674[39m, [32m1057[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) TNF-\ufffd\ufffd, "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1674[39m, [32m1057[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D) IFN-\ufffd\ufffd, "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1674[39m, [32m1057[39m))
+  )
+)
+2018.11.10 15:18:20 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A).The visualization is a hierarchical heat-map generated from edgeR analysis with filtered data where the major boxes represent a family (or category) of related functions. Each individual colored rectangle is a particular biological function or disease and the color indicates its predicted state: Increasing (orange), or decreasing (blue). Darker colors indicate higher absolute Z-scores. In this view the size of the rectangle is correlated with increasing overlap significance (p-value). The image has been cropped for better readability. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m10[39m, [32m0[39m, [32m4295[39m, [32m1728[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Heat-map comparison of Diseases and Biofunctions affected across all 4 analysis (edgeR 0.1 cpm/all, edgeR 0.1cpm/ 22, DESEq2, TSPM). Similarly color represents predicted state. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m1878[39m, [32m1556[39m, [32m3007[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C). Individual Z-scores and mean Z-scores per each Bio Function affected. The Z-score algorithm is designed to reduce the chance that random data will generate significant predictions. Negative Z-scores indicate a down-regulation of Biofunction, positives Z-scores indicate an up-regulation of function. Absolute Z-score values higher than 2.0 can be used to make biological predictions."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1927[39m, [32m2311[39m, [32m4267[39m, [32m3006[39m)
+    )
+  )
+)
+2018.11.10 15:18:28 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A, B) IF microscopy to detect N-WASP, Arp3 recruitment and F-actin comet tail formation by intracellular S. flexneri strains. HeLa cells were infected with mid-exponential phase S. flexneri \ufffd\ufffdicsA \ufffd\ufffdrmlD (R-LPS) strains expressing either IcsA::BIO only or co-expressing IcsA::BIO V382R (N-WASP IR II) and IcsA::BIO Y716G D717G (N-WASP IR III), and formalin fixed. HeLa cells and bacteria nuclei were labelled with DAPI (blue), and N-WASP was labelled with anti-N-WASP antibody and either "[39m,
+      [32m"(A) Alex Fluor 488-conjugated donkey anti-rabbit antibody (green) or "[39m,
+      [32m"(A) Arp3 was labelled with anti-Arp3 monoclonal antibody and an Alex Fluor 594-conjugated donkey anti-mouse antibody (red). "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m8[39m, [32m7[39m, [32m1731[39m, [32m882[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A, B) IF microscopy to detect N-WASP, Arp3 recruitment and F-actin comet tail formation by intracellular S. flexneri strains. HeLa cells were infected with mid-exponential phase S. flexneri \ufffd\ufffdicsA \ufffd\ufffdrmlD (R-LPS) strains expressing either IcsA::BIO only or co-expressing IcsA::BIO V382R (N-WASP IR II) and IcsA::BIO Y716G D717G (N-WASP IR III), and formalin fixed. HeLa cells and bacteria nuclei were labelled with DAPI (blue), and N-WASP was labelled with anti-N-WASP antibody and either "[39m,
+      [32m"(B) Alex Fluor 594-conjugated donkey anti-rabbit antibody (red). "[39m,
+      [32m"(B) F-actin was labelled with Alexa Fluor-488-phalloidin (green). IF images were observed at 100\ufffd\ufffdmagnification. Arrows indicate N-WASP, Arp3 recruitment and F-actin tail formation. Enlargements of relevant region shown for clarity. Strains were assessed in two independent experiments. Scale bar\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd10 \ufffd\ufffdm. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m12[39m, [32m1087[39m, [32m1727[39m, [32m1533[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Quantification of N-WASP/Arp3 recruitment, and "[39m,
+      [32m"(C), or recruited N-WASP and formed F-actin comet tail/capping "[39m,
+      [32m"(C); and, as percentage of N-WASP recruitment/F-actin tail or capping formation \ufffd\ufffd SEM of two independent experiments "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1088[39m, [32m2057[39m, [32m2060[39m, [32m2744[39m),
+      [33mBox[39m([32m128[39m, [32m1541[39m, [32m1727[39m, [32m1926[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D) N-WASP/F-actin tail or capping formation, by intracellular S. flexneri \ufffd\ufffdicsA \ufffd\ufffdrmlD strains expressing IcsA::BIO only or co-expressing IcsA::BIO V382R (N-WASP IR II) and IcsA::BIO Y716G D717G (N-WASP IR III). Bacteria that either recruited both N-WASP and Arp3 "[39m,
+      [32m"(D), were scored from infected HeLa cells (n\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd20 HeLa cells; \ufffd\ufffd\ufffd250\ufffd\ufffd\ufffd350 bacteria). Data are represented as percentage of N-WASP/Arp3 recruitment \ufffd\ufffd SEM of two independent experiments "[39m,
+      [32m"(D). **, 0.001PPt test). IR II & III\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffdInteracting region II and III (S. flexneri co-expressing IcsA::BIO V382R and IcsA::BIO Y716G D717G)."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m17[39m, [32m2056[39m, [32m988[39m, [32m2735[39m)
+    )
+  )
+)
+2018.11.10 15:18:31 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) After purification steps, different concentrations of purified rgD5 protein (55 kDa) were separated by SDS-PAGE in a 12% gel and stained overnight with Coomassie Blue R-250. Lane kDa: Unstained Protein MW Marker (Fermentas/Thermo Fisher Scientific); Lane 10: 10 \ufffd\ufffdg rgD5; Lane 5: 5 \ufffd\ufffdg rgD5; Lane 2: 2 \ufffd\ufffdg of rgD5; "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m4[39m, [32m4[39m, [32m1828[39m, [32m1044[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Western blot was performed with mouse monoclonal antibody (MAb) Anti-6xHis HRP conjugated (Anti-6xHis) or with polyclonal antibodies (PAb) from bovine immunized with inactivated BoHV-5 (Anti-BoHV-5). Lane M: Prestained Low Range Protein MW Standard (Bio-Rad); Lane 1: Purified rgD5; Lane 2: KM71H supernatant of non-transformed yeast cells after methanol induction used as negative control."[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.10 15:18:47 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". A. \ufffd\ufffd\ufffdBatch Query\ufffd\ufffd\ufffd was run either using Gene symbol or JGI transcript ID and NCBI RefSeq"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m37[39m, [32m37[39m, [32m3813[39m, [32m7182[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". B. \ufffd\ufffd\ufffdProbe Match\ufffd\ufffd\ufffd found probes that identically match AQP-coding sequences"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m37[39m, [32m37[39m, [32m3813[39m, [32m7182[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". C. AQP-targeting probe sets were identified through BLASTN alignment of target sequence and Populus trichocarpa genome sequences (v1.1 and v2.0). Venn diagram exhibits the number of probe sets retrieved from each procedure."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m37[39m, [32m37[39m, [32m3813[39m, [32m7182[39m))
+  )
+)
+2018.11.10 15:18:50 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) or gelatin-zymography "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m7[39m, [32m7[39m, [32m998[39m, [32m1270[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B). The negative control (CTRL) was represented by non-activated and untreated cells. CANP-2 present in lysates was identified by comigration with 0.5 \ufffd\ufffdg of CANP-2 standard. MMP-2 and MMP-9 were identified by their apparent molecular mass of 67 and 92 kDa, respectively, using pre-stained molecular weight markers (Bio Rad). Histograms show the quantitation of CANP-2, MMP-2 and MMP-9 levels, expressed as optical density "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1029[39m, [32m7[39m, [32m1952[39m, [32m1270[39m)
+    )
+  ),
+  [32m"OD"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(OD) \ufffd\ufffd mm2, calculated after scanning densitometry and computerized analysis of gels. Results represent the mean \ufffd\ufffd SD of three separate experiments performed with different cell populations. Statistically significant values different from positive control, represented by lysates or supernatants from LPS-activated astrocytes (LPS), are indicated with * (One-way Anova followed by Student \ufffd\ufffd\ufffd Newman \ufffd\ufffd\ufffd Keuls post hoc test; *P2, pH 7.4) in the absence (Control) or in the presence of IFN-\ufffd\ufffd (500 U/ml). E-64 (20 \ufffd\ufffdM), IA (10 mM) or PA (4 mM) were used as positive controls. Staining and destaining of the gels revealed that IFN-\ufffd\ufffd was not able to inhibit the activity of CANP-2 as well as MMP-2 and MMP-9 as already observed for E-64 and IA or PA. The percentages of inhibition, calculated in comparison to control, are reported in the lower part of Figure 4C and D."[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.10 15:19:14 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"A. At the end of the study, various organs including tumor, liver, kidney and spleen were isolated from five individual mice and tissues were digested using microwave as described in method. Level of NCe was measured using ICP-MS. Data represents mean+SEM of 5 tissues of individual mouse"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m13[39m, [32m13[39m, [32m1743[39m, [32m1970[39m),
+      [33mBox[39m([32m1743[39m, [32m13[39m, [32m3147[39m, [32m1948[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". B. Agglomeration of NCe localized in vacuole in ovarian cancer tumor examined by TEM as described in Method in detail."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1743[39m, [32m13[39m, [32m3147[39m, [32m1948[39m)
+    )
+  )
+)
+2018.11.10 15:19:40 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Trypan blue staining of cell death in N. benthamiana leaves. Pto-FLAG, pto mutant-FLAG, AvrPto, AvrPtoB, and prfD1416V-3HA constructs were transiently expressed in ProPrf:Prf-5Myc or wild-type N. benthamiana as indicated and the tissue was stained 2 days post infiltration. The bar indicates 0.5 mm. Dead cells stain dark blue in this qualitative assay. Each row is derived from a single leaf, within which relative amounts of cell death were comparable, and is representative of six replicates. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m7[39m, [32m7[39m, [32m521[39m, [32m687[39m),
+      [33mBox[39m([32m1093[39m, [32m20[39m, [32m2027[39m, [32m242[39m),
+      [33mBox[39m([32m560[39m, [32m20[39m, [32m1051[39m, [32m242[39m)
+    )
+  ),
+  [32m"IP"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(IP) using anti-HA antibodies. Immunoblots "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m829[39m, [32m744[39m, [32m2021[39m, [32m1814[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) The slow-migrating form of Pto requires kinase activity and double phosphorylation. Pto-FLAG, pto mutant-FLAG, AvrPto, and Prf-3HA constructs were transiently expressed in wild-type N. benthamiana as indicated, Prf-3HA was immunoprecipitated "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m829[39m, [32m519[39m, [32m1053[39m, [32m687[39m),
+      [33mBox[39m([32m12[39m, [32m519[39m, [32m788[39m, [32m998[39m),
+      [33mBox[39m([32m560[39m, [32m298[39m, [32m1852[39m, [32m687[39m)
+    )
+  ),
+  [32m"IB"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(IB) were performed with the antibodies indicated on the left. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m30[39m, [32m1042[39m, [32m821[39m, [32m1627[39m),
+      [33mBox[39m([32m1095[39m, [32m744[39m, [32m1852[39m, [32m912[39m),
+      [33mBox[39m([32m1361[39m, [32m744[39m, [32m1586[39m, [32m912[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Quantification of the relative abundance of slow- and fast-migrating forms of Pto under elicitation conditions as described in B with Quantity One, Bio-Rad (adjusted volume\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd[CNT*mm2] data counts/mm2). Error bars are standard deviation of relative abundance between the same samples in independent immunoblots, probed with anti-Pto antibody."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m829[39m, [32m744[39m, [32m2021[39m, [32m1814[39m)
+    )
+  )
+)
+2018.11.10 15:19:42 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 3420489/10810844=0.3163942611696182 is less than 0.4, skipping
+2018.11.10 15:19:42 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:19:45 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) In trans inhibition of Pto S198 and T199 phosphorylation. The slower migrating from of Pto is suppressed in trans by prfK1128A and ptoD164N, but not ptoS189A/T199A, ptoS189A and ptoT199A. Pto-5Myc, Pto-FLAG, pto mutant-FLAG, AvrPto, Prf-3HA, prfK1128A-3HA constructs were transiently expressed in wild-type N. benthamiana as indicated, Prf-3HA and prfK1128A-3HA were immunoprecipitated "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1638[39m, [32m304[39m))
+  ),
+  [32m"IP"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(IP) using anti-HA antibodies. Immunoblots "[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"IB"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(IB) were performed with the antibodies indicated on the left. "[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) The slower migrating from of Pto was suppressed in trans by prfK1128A and ptoD164N, but not by ptoS189A ptoT199A and ptoS189A/T199A. Pto-5Myc, Pto-FLAG, pto mutant-FLAG, AvrPto, Prf-3HA, prfK1128A-3HA constructs were transiently expressed in wild-type N. benthamiana as indicated. Prf-3HA and prfK1128A-3HA were immunoprecipitated using anti-HA antibodies. The relative abundance of slow- and fast-migrating forms of Pto-5Myc after AvrPto recognition was quantified two days post infiltration, from anti-Myc immunoblots using Quantity One, Bio-Rad (adjusted volume\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd[CNT*mm2] data counts/mm2)."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m305[39m, [32m1638[39m, [32m1648[39m))
+  )
+)
+2018.11.10 15:19:46 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(E) and others."[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m9[39m, [32m8[39m, [32m1317[39m, [32m841[39m))
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(F) and melatonin "[39m),
+    [33mList[39m()
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) are down regulated due to the increase of pro-inflammatory cytokines and then up-regulated under the effects of cortisol rhythms. These behaviors result in the circadian variation of bio-energetic proteins "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m9[39m, [32m8[39m, [32m1317[39m, [32m841[39m))
+  ),
+  [32m"M"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(M), which in turn drive the patterns of other components in the system. Pro-inflammatory cytokines "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m9[39m, [32m8[39m, [32m1317[39m, [32m841[39m))
+  ),
+  [32m"P"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(P), driven by melatonin secretion, are up-regulated to peak around \ufffd\ufffd\ufffd4:00AM whereas anti-inflammatory cytokines "[39m
+    ),
+    [33mList[39m()
+  )
+)
+java.io.IOException: ImageJ cannot open 1-bit LZW compressed TIFFs
+2018.11.10 15:19:46 [main] WARN figtools.AnalyzeImage.analyzeImages:171:19 - Could not open image file /Users/nathandunn/repositories/figtools/bin/figures/171011/Figure_1.tif, skipping
+2018.11.10 15:19:52 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 13597051/38488192=0.3532785068210011 is less than 0.4, skipping
+2018.11.10 15:19:52 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:19:55 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Number of phage clones analyzed from each selection. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m3021[39m, [32m2832[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Bar graph shows the redundancy of the sequences that were identified. The 10 sequences containing T7-10B in-frame fusions are labelled with their TAIR accession on the top of the corresponding bars."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m0[39m, [32m3021[39m, [32m2832[39m),
+      [33mBox[39m([32m0[39m, [32m2833[39m, [32m3021[39m, [32m3183[39m)
+    )
+  )
+)
+2018.11.10 15:19:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/171378/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:19:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/171992/Figure_7.tif only has a single caption, no need to segment the image.
+2018.11.10 15:19:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/172144/Figure_8.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:34 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) The analysis identified 3 sets of genes: 101, 153 and 318 genes were selected after bio-panning against Pa, Pst(avrRpt2) (avr) and Pst strains respectively. The sets are represented as overlapping Venn diagrams and the number of shared genes is shown in the intersections. The union of the 3 sets produces a total of 472 genes as candidate MAMP/effector ligands. The positions of At1g66740 (AtSP7), At1g67090 (RBCS1A) and At5g47220 (ATERF-2) are shown in each set. Gene products that produced immune interactions in PPIN-1 are represented by coloured dots. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m20[39m, [32m21[39m, [32m4005[39m, [32m2854[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Genes in the 472-gene set were annotated according to the GO categories for Biological Process and the percentage of annotations falling in each category (in bold) was compared to the percentage produced by the 26,303 genes spotted on the microarray (in brackets). Categories with significant (p"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m21[39m, [32m2902[39m, [32m4246[39m, [32m5960[39m)
+    )
+  )
+)
+2018.11.10 15:21:34 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/172458/Figure_10.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:34 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/176600/Figure_2.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:34 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/176614/Figure_1.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:34 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/176833/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:34 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/177075/Figure_4.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:39 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A, C) and b12 "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m10[39m, [32m10[39m, [32m1459[39m, [32m507[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A, C) and b12 "[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m10[39m, [32m563[39m, [32m2039[39m, [32m1061[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B, D) to immobilized JR-CSF gp120. Two normal rabbit sera are used as non-immune controls. The results shown are representative of three independent experiments. The dashed horizontal line (\ufffd\ufffd\ufffd) corresponds to the half-maximal signal (EC50). HIVIG: HIV immune globulin provided by J. Mascola (VRC); DEN3: a mAb to dengue virus envelope provided by D. Burton (TSRI)."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1500[39m, [32m70[39m, [32m2017[39m, [32m418[39m),
+      [33mBox[39m([32m10[39m, [32m10[39m, [32m1459[39m, [32m507[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B, D) to immobilized JR-CSF gp120. Two normal rabbit sera are used as non-immune controls. The results shown are representative of three independent experiments. The dashed horizontal line (\ufffd\ufffd\ufffd) corresponds to the half-maximal signal (EC50). HIVIG: HIV immune globulin provided by J. Mascola (VRC); DEN3: a mAb to dengue virus envelope provided by D. Burton (TSRI)."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m10[39m, [32m563[39m, [32m2039[39m, [32m1061[39m)
+    )
+  )
+)
+2018.11.10 15:21:39 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/182422/Figure_1.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:48 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 22049840/62117200=0.3549715698711468 is less than 0.4, skipping
+2018.11.10 15:21:48 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:21:55 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a). Whole worm extract was subjected to SDS-PAGE (T\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd10%) and transferred onto Hybond C membranes. Membrane strips containing the fractionated extract were incubated with fluorescein-labeled P40 (50 \ufffd\ufffdg; 1125 pmoles)"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1778[39m, [32m4149[39m))
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(b) and P26 (40 \ufffd\ufffdg; 1520 pmoles) "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1779[39m, [32m0[39m, [32m3741[39m, [32m1849[39m)
+    )
+  ),
+  [32m"c"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(c). After extensive washing, the bound recombinant fluorescein-labeled polypeptides were detected using an anti-fluorescein antibody labeled with peroxidase. The peroxidase activity was detected using chemiluminescence. The chemiluminescence reaction was exposed to Hyperfilm ECL (GE Healthcare Bio-Sciences Corp., Piscataway, NJ, USA) for 30 s in both experiments."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1779[39m, [32m1850[39m, [32m3741[39m, [32m3636[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mList[39m(),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1779[39m, [32m3637[39m, [32m3741[39m, [32m4149[39m)
+    )
+  )
+)
+2018.11.10 15:21:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/184842/Figure_1.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/186806/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/187231/Figure_5.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/187371/Figure_6.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:55 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/187457/Figure_4.tif only has a single caption, no need to segment the image.
+2018.11.10 15:21:59 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"A) Sequence of protein layering in the Bio Layer Interferometry antibody competition assay: 1) a strepatavidin-coated biosensor is loaded to saturation with 2) biotinylated recombinant human Endoglin (10 \ufffd\ufffdg/ml), then with 3) a negative control IgG1k or the M999 anti-Endoglin rat IgG2 antibodies (10 \ufffd\ufffdg/ml) prior to the addition of 4) M999, TRC105, SN6, or SN6h (10 \ufffd\ufffdg/ml). "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m7[39m, [32m7[39m, [32m759[39m, [32m620[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Wavelength shifts "[39m,
+      [32m"(B) Wavelength shifts "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m854[39m, [32m7[39m, [32m1872[39m, [32m611[39m))
+  ),
+  [32m"WS"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(WS) triggered by the addition of the individual anti-ENG antibodies to ENG in the presence of a ctrl antibody (blue bars), or in the presence of the anti-ENG antibody M999 (red bars). Competition with M999, calculated as (WSCTRL-WSM999)/WSCTRL*100 is indicated at the bottom of the graph. "[39m,
+      [32m"(WS) triggered by the addition of BMP9 in addition to the individual anti-ENG antibodies. BMP9 binding inhibition, calculated as [1-(WSENGAB/WSCTRLAB)]*100, is indicated at the bottom of the graph. Results are the mean +/\ufffd\ufffd\ufffd standard deviation of technical triplicates."[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Sequence of protein layering in the Bio Layer Interferometry BMP9 binding assay: 1) a strepatavidin-coated biosensor is loaded to saturation with 2) biotinylated recombinant human Endoglin (10 \ufffd\ufffdg/ml), then with 3) a negative control IgG1k or the tested anti-ENG antibodies (M999, TRC105, SN6, SN6h) (10 \ufffd\ufffdg/ml) prior to the addition of 4) BMP9 (10 \ufffd\ufffdg/ml). "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m12[39m, [32m621[39m, [32m1895[39m, [32m1501[39m)
+    )
+  )
+)
+2018.11.10 15:21:59 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/187968/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:22:14 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 31047644/100360640=0.3093607613502664 is less than 0.4, skipping
+2018.11.10 15:22:14 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:22:19 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(E) Wortmannin, "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m4680[39m, [32m5359[39m))
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(F) JNK or "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m4680[39m, [32m5359[39m))
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) phospo-AKT [p-AKT Ser473], "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m4680[39m, [32m5359[39m))
+  ),
+  [32m"G"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(G) SB 203580 for 15 min before incubation alone, with IL-2 (200 U/ml), HSP70 (10 \ufffd\ufffdg/ml) or both for 2 h. Cells were then co-cultured with CD4+CD25\ufffd\ufffd\ufffd T cells (E\ufffd\ufffd\ufffdT ratio 1\ufffd\ufffd\ufffd5) on 96-well plates coated with anti-CD3 antibodies (OKT3, 1 \ufffd\ufffdg/ml) in serum-free medium for 48 h. Supernatants were analyzed for IFN-\ufffd\ufffd, TNF-\ufffd\ufffd, IL-10 and TGF-\ufffd\ufffd. Results of four independent experiments, expressed as mean fold increases or decreases in comparison to results obtained for experiments without preactivation of Tregs and without inhibitor treatment (control)."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m4680[39m, [32m5359[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) phospo-JNK [p-JNK Thr183/Tyr185], "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m4680[39m, [32m5359[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) phospo-p38 MAPK [p-p38 MAPK Thr180/Tyr182] and "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m4680[39m, [32m5359[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D) phospo-ERK1/2 [p-ERK1/2 Thr202/Tyr204/Thr185/Tyr187] was determined by the bead-based multiplex assay (Luminex xMAP technology). Untreated CD4+CD25+ T cells were adjusted to 1.00 by the use of the Bio-Plex Manager 6.0 software and used to calculate the ratios. Furthermore, CD4+CD25+ T cells were treated with 5 \ufffd\ufffdM of the following intracellular signal transduction inhibitors: "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m4680[39m, [32m5359[39m))
+  )
+)
+2018.11.10 15:22:19 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/188892/Figure_2.tif only has a single caption, no need to segment the image.
+2018.11.10 15:22:37 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A), Tuto "[39m,
+      [32m". A) Bio-A: Collagen (Col) 1: *, vs. 90 days (PPPPTuto (PSt (PPPPPTuto (PSt (PTuto: Col 1: \ufffd\ufffd\ufffd, vs. 30 days (PPSt: Col 1: \ufffd\ufffd, vs. Bio-A and Tuto at 14 days (P"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m31[39m, [32m47[39m, [32m2848[39m, [32m650[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(B) and St "[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m2914[39m, [32m47[39m, [32m5295[39m, [32m650[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) after 14, 30, 90 and 180 days post-implantation. The results are expressed as the mean \ufffd\ufffd SEM of three experiments. Gene expression was normalized with the GAPDH gene"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m198[39m, [32m665[39m, [32m7875[39m, [32m3113[39m),
+      [33mBox[39m([32m5364[39m, [32m39[39m, [32m7726[39m, [32m650[39m)
+    )
+  )
+)
+2018.11.10 15:23:01 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"96"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E-H) and St (I\ufffd\ufffd\ufffdL). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean \ufffd\ufffd SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: \ufffd\ufffd, vs. 30 days (PPPPSt: \ufffd\ufffd, vs. 90 days (PPTuto (PTuto (PTuto (P"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"07"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E-H) and St (I\ufffd\ufffd\ufffdL). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean \ufffd\ufffd SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: \ufffd\ufffd, vs. 30 days (PPPPSt: \ufffd\ufffd, vs. 90 days (PPTuto (PTuto (PTuto (P"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"17"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E-H) and St (I\ufffd\ufffd\ufffdL). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean \ufffd\ufffd SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: \ufffd\ufffd, vs. 30 days (PPPPSt: \ufffd\ufffd, vs. 90 days (PPTuto (PTuto (PTuto (P"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m15[39m, [32m15[39m, [32m1233[39m, [32m853[39m))
+  ),
+  [32m"27"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E-H) and St (I\ufffd\ufffd\ufffdL). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean \ufffd\ufffd SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: \ufffd\ufffd, vs. 30 days (PPPPSt: \ufffd\ufffd, vs. 90 days (PPTuto (PTuto (PTuto (P"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m40[39m, [32m15[39m, [32m2164[39m, [32m2257[39m),
+      [33mBox[39m([32m1248[39m, [32m1565[39m, [32m2164[39m, [32m2257[39m),
+      [33mBox[39m([32m467[39m, [32m2404[39m, [32m3849[39m, [32m3428[39m),
+      [33mBox[39m([32m2183[39m, [32m15[39m, [32m4032[39m, [32m2257[39m)
+    )
+  )
+)
+2018.11.10 15:23:01 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/191545/Figure_9.tif only has a single caption, no need to segment the image.
+2018.11.10 15:23:06 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 8361327/30450336=0.27458898975696033 is less than 0.4, skipping
+2018.11.10 15:23:06 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:23:09 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Caspase-3 activity were determined using the specific substrate Ac-DEVDPNA; HepG2 cells were treated with 10 \ufffd\ufffdM ABT-737, 1.25 \ufffd\ufffdM Celastrol and the combination for 24 h. E"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2372[39m, [32m3207[39m))
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Bel-7402 and HepG2 cells were stained with JC-1, then observed by Leica DMI 400B Xuorescence microscope; F"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2372[39m, [32m3207[39m))
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"A"[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2372[39m, [32m3207[39m))
+  ),
+  [32m"G"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". protein levels of Bax, Bcl-2, Bcl-xL and Mcl-1 in HepG2 and Bel-7402 cells were detected by western blotting analysis. The density of the protein band was determined by using Bio-Rad Quantity One imaging software; G"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2372[39m, [32m3207[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Cells were treated with 10 \ufffd\ufffdM ABT-737, 1.25 \ufffd\ufffdM Celastrol and the combination for 24, 48, 72 hours and apoptosis was tested by propidium iodide staining of lysed cell nuclei, analyzed by Flow Cytometry. B"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2372[39m, [32m3207[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". After treatment 10 \ufffd\ufffdM ABT-737, 1.25 \ufffd\ufffdM Celastrol and the combination for 72 hours, cells were stained with DAPI and observed by Leica DMI 400B Xuorescence microscope. Cells were treated with 10 \ufffd\ufffdM ABT-737, 1.25 \ufffd\ufffdM Celastrol and the combination for 24 h; C"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2372[39m, [32m3207[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". lysates were harvested and immunobloted with caspase-3, cleaved caspase-3 and PARP antibodies; D"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2372[39m, [32m3207[39m))
+  )
+)
+2018.11.10 15:23:12 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 4452597/19647360=0.22662571459982409 is less than 0.4, skipping
+2018.11.10 15:23:12 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:23:13 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". The ratios of cleaved-PARP/Actin. The density of the protein band was determined by using Bio-Rad Quantity One imaging software. E"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2273[39m, [32m2159[39m))
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"HepG2 cells were transfected with NOXA siRNA according to manufacturer\ufffd\ufffd\ufffds recommendations. Forty-eight hours after transfection, cells were treated with10 \ufffd\ufffdM ABT-737, 1.25 \ufffd\ufffdM Celastrol and the combination for 48 h. A"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2273[39m, [32m2159[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Lysates were harvested and immunobloted with NOXA antibody. B"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2273[39m, [32m2159[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Lysates were harvested and immunobloted with cleaved caspase-3 and PARP antibodies. C"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2273[39m, [32m2159[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". The ratios of cleaved-caspase 3/\ufffd\ufffd-Actin. D"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2273[39m, [32m2159[39m))
+  )
+)
+2018.11.10 15:23:13 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/199743/Figure_4.tif only has a single caption, no need to segment the image.
+2018.11.10 15:23:13 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/2015607/ef101500f_si_003.tif only has a single caption, no need to segment the image.
+2018.11.10 15:23:13 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/2015613/ef101500f_si_001.tif only has a single caption, no need to segment the image.
+2018.11.10 15:23:13 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/2015619/ef101500f_si_002.tif only has a single caption, no need to segment the image.
+15:23:13.743 [main] INFO  o.a.p.p.graphics.color.PDDeviceRGB - To get higher rendering speed on java 8 oder 9,
+15:23:13.745 [main] INFO  o.a.p.p.graphics.color.PDDeviceRGB -   use the option -Dsun.java2d.cmm=sun.java2d.cmm.kcms.KcmsServiceProvider
+15:23:13.745 [main] INFO  o.a.p.p.graphics.color.PDDeviceRGB -   or call System.setProperty("sun.java2d.cmm", "sun.java2d.cmm.kcms.KcmsServiceProvider")
+2018.11.10 15:23:13 [main] WARN figtools.AnalyzeImage.$anonfun:126:25 - File /Users/nathandunn/repositories/figtools/bin/figures/2022090/ef301278c_si_001.pdf contains more than one image, skipping
+2018.11.10 15:23:16 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Daily changes in GSH levels in wild type CS males. Data represents average values \ufffd\ufffd SEM obtained from 4 independent bio-replicates (total N\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd8). Data were analyzed by a 1-way ANOVA and Bonferroni's post-tests where an asterisk marks significantly lower values relative to ZT 0 (pper01 and cyc01 mutants such that no statistical difference was detected between time points where control CS flies showed a peak (ZT 0) and a trough (ZT 8). Bars represent average values \ufffd\ufffd SEM obtained from 3\ufffd\ufffd\ufffd4 independent bio-replicates (\ufffd\ufffd SEM). Data in "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m14[39m, [32m924[39m, [32m1507[39m, [32m1770[39m),
+      [33mBox[39m([32m13[39m, [32m13[39m, [32m1163[39m, [32m848[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) were analyzed by a 2-way ANOVA and Bonferroni's post-tests. Different subscript letters indicate significant difference between treatment groups. ZT\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffdZeitgeber Time."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m14[39m, [32m924[39m, [32m1507[39m, [32m1770[39m)
+    )
+  )
+)
+2018.11.10 15:23:19 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a) The non-functionalized micro-fabricated Si force sensor with a flat probe and with known force-deflection relation is manipulated by a high-resolution x-y-z Piezo-stage to contact cell islands' lateral convex surface (on x-y plane). "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m7[39m, [32m96[39m, [32m683[39m, [32m538[39m))
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(b) Confocal microscopy of cell islands show the height of islands is on the order of 30\ufffd\ufffd\ufffd50 \ufffd\ufffdm. The vertical height of bio-MEMS probe is 5\ufffd\ufffd\ufffd10 \ufffd\ufffdm. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m7[39m, [32m626[39m, [32m721[39m, [32m1101[39m),
+      [33mBox[39m([32m667[39m, [32m7[39m, [32m1824[39m, [32m604[39m)
+    )
+  ),
+  [32m"c"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(c) After a 2-minute contact, force sensor is horizontally pulled away at a constant speed of 2.1\ufffd\ufffd0.4 \ufffd\ufffdm/s. While the cell adhesion between the probe and cell surface hinders retraction of the sensor, the sensor beams deform by \ufffd\ufffd, giving the force F. Note that the probe is not functionalized. The 2-minute contact between the probe and cells prevents the activation of cell integrins and the formation of any cell focal adhesion, which takes >30 minutes to form."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m769[39m, [32m636[39m, [32m1963[39m, [32m1101[39m)
+    )
+  )
+)
+2018.11.10 15:23:24 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E) is abolished while GS mRNA is not affected "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1457[39m, [32m1190[39m, [32m1991[39m, [32m1656[39m),
+      [33mBox[39m([32m864[39m, [32m1168[39m, [32m1415[39m, [32m1656[39m),
+      [33mBox[39m([32m871[39m, [32m7[39m, [32m1438[39m, [32m537[39m),
+      [33mBox[39m([32m11[39m, [32m620[39m, [32m846[39m, [32m1110[39m)
+    )
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(F). In per01 mutants, the trough-to-peak differences in Gclc "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m864[39m, [32m1168[39m, [32m1415[39m, [32m1656[39m),
+      [33mBox[39m([32m9[39m, [32m1174[39m, [32m843[39m, [32m1666[39m),
+      [33mBox[39m([32m871[39m, [32m7[39m, [32m1438[39m, [32m537[39m)
+    )
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A) and Gclm "[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m864[39m, [32m1168[39m, [32m1415[39m, [32m1656[39m),
+      [33mBox[39m([32m8[39m, [32m28[39m, [32m848[39m, [32m551[39m),
+      [33mBox[39m([32m1465[39m, [32m17[39m, [32m2000[39m, [32m535[39m)
+    )
+  ),
+  [32m"I"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(I). Different subscript letters in (D\ufffd\ufffd\ufffdI) indicate a significant difference between treatment groups. All graphs are average values obtained from 3\ufffd\ufffd\ufffd5 independent bio-replicates (\ufffd\ufffd SEM) and normalized to ZT 0 or ZT 4 as appropriate."[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"G"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(G) and Gclm "[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m9[39m, [32m1174[39m, [32m843[39m, [32m1666[39m),
+      [33mBox[39m([32m871[39m, [32m7[39m, [32m1438[39m, [32m537[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) mRNA but not in GS mRNA profile "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m864[39m, [32m1168[39m, [32m1415[39m, [32m1656[39m),
+      [33mBox[39m([32m1457[39m, [32m578[39m, [32m1998[39m, [32m1101[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C). Data for (A\ufffd\ufffd\ufffdC) were analyzed by a 1-way ANOVA and Bonferroni's post-tests, and an asterisk marks significantly higher values relative to the lowest value (pcyc01 mutants, the peak in Gclc "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1457[39m, [32m1190[39m, [32m1991[39m, [32m1656[39m),
+      [33mBox[39m([32m864[39m, [32m1168[39m, [32m1415[39m, [32m1656[39m),
+      [33mBox[39m([32m9[39m, [32m1174[39m, [32m843[39m, [32m1666[39m)
+    )
+  ),
+  [32m"H"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(H) are abolished while GS is not changed "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m864[39m, [32m607[39m, [32m1435[39m, [32m1101[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(D) and Gclm "[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1457[39m, [32m1190[39m, [32m1991[39m, [32m1656[39m),
+      [33mBox[39m([32m864[39m, [32m1168[39m, [32m1415[39m, [32m1656[39m),
+      [33mBox[39m([32m8[39m, [32m28[39m, [32m848[39m, [32m551[39m)
+    )
+  )
+)
+2018.11.10 15:23:24 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/203085/Figure_5.tif only has a single caption, no need to segment the image.
+2018.11.10 15:23:26 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) total Gclc mRNA levels were also significant when "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m8[39m, [32m8[39m, [32m998[39m, [32m618[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(B) Gclc-RA and "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m12[39m, [32m691[39m, [32m998[39m, [32m1301[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Gclc-RB isoforms were measured separately using isoform-specific primers. The two isoforms share the same coding regions, but have distinct 5\ufffd\ufffd\ufffd UTR regions. All graphs are average values obtained from 3 independent bio-repeats each normalized to the time point with the lowest expression. An asterisk indicates significant difference from the trough based on a 1-way ANOVA and Bonferroni's post-tests (p"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m10[39m, [32m1382[39m, [32m998[39m, [32m2055[39m)
+    )
+  )
+)
+2018.11.10 15:23:26 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/203187/Figure_6.tif only has a single caption, no need to segment the image.
+2018.11.10 15:23:29 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A) tim and "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m10[39m, [32m9[39m, [32m1193[39m, [32m753[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Gclm mRNA expression show a circadian rhythm in heads of CS flies on the second day of constant darkness. An asterisk indicates a significant difference in the expression level between the trough of each gene and the peak (pGclc mRNA levels in wild type flies. Data represents average values obtained from 3 independent bio-replicates (\ufffd\ufffd SEM) and normalized to ZT 0. Significance was calculated by a 1-way ANOVA and Bonferroni's multiple comparison post-tests. CT\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffdCircadian Time. Shaded horizontal bars indicate subjective day."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m12[39m, [32m774[39m, [32m1196[39m, [32m2397[39m)
+    )
+  )
+)
+2018.11.10 15:23:29 [main] WARN figtools.AnalyzeImage.$anonfun:126:25 - File /Users/nathandunn/repositories/figtools/bin/figures/2032818/bm5002262_si_001.pdf contains more than one image, skipping
+2018.11.10 15:23:32 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A) GCLm and "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m9[39m, [32m8[39m, [32m1113[39m, [32m736[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) GCLc protein levels based on average densitometry of signals obtained on Western blots with anti-GCLc or anti-GCLm antibodies normalized to signals obtained with anti-actin antibodies. Each replicate was normalized to the time point with the lowest expression. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m15[39m, [32m809[39m, [32m1113[39m, [32m1542[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Ratio of GCLc to GCLm protein over the circadian day in wild type CS males. (A\ufffd\ufffd\ufffdC) Data represent average values \ufffd\ufffd SEM obtained from 8 immunoblots performed with 4 independent bio-replicates. Statistical significance was determined by a 1-way ANOVA and Dunnett's post-test as denoted by asterisks (p"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m11[39m, [32m1592[39m, [32m1109[39m, [32m2420[39m)
+    )
+  )
+)
+2018.11.10 15:23:34 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Daily profile of GCL activity in heads of CS flies as measured by the formation of the GCL product, \ufffd\ufffd-GC. Data represents average values \ufffd\ufffd SEM obtained from 4 independent bio-replicates (total N\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd16). An asterisk indicates a significant difference between the peak and trough time points calculated by 1-way ANOVA and Bonferroni post-tests. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m10[39m, [32m8[39m, [32m930[39m, [32m644[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) GCL activity was altered in per01 and cyc01 mutants such that no statistical difference was detected between time points where control CS flies showed peak at (ZT 0) and trough (ZT 8). Bars show average values \ufffd\ufffd SEM obtained from 4\ufffd\ufffd\ufffd5 independent bio-replicates (total N\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd16). Data in "[39m,
+      [32m"(B) are analyzed by 2-way ANOVA and Bonferroni's post-tests. Different subscript letters indicate significant differences between treatment groups (p"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m8[39m, [32m726[39m, [32m1130[39m, [32m1312[39m))
+  )
+)
+2018.11.10 15:23:37 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) A circadian rhythm in GstD1 mRNA levels was detected in wild type "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m29[39m, [32m12[39m, [32m1550[39m, [32m1092[39m))
+  ),
+  [32m"CS"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(CS) flies with a peak at ZT 8 significantly different from the trough at ZT 20 (pper01 and cyc01 flies while the difference was observed in CS heads (p"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m12[39m, [32m1141[39m, [32m1552[39m, [32m2177[39m)
+    )
+  )
+)
+2018.11.10 15:23:37 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/203983/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:23:39 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 3246578/11802188=0.27508272194952327 is less than 0.4, skipping
+2018.11.10 15:23:39 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:23:42 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A). Analysis of ADAADiK on silica 60A plate by TLC after purification using Bio-Rex 70 followed by G-15 desalting column. Kanamycin (lanes 1-6), ADAADiK (lanes 7\ufffd\ufffd\ufffd9), and phosphokanamycin (lanes 18\ufffd\ufffd\ufffd19) migrate with different mobilities and thus can be separated on these plates. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2058[39m, [32m1432[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B). Inhibition profile of fractions eluted from G-15 column. "[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C). Purification of ADAAD using TSK gel SP-5PW column. The ninhydrin sensitive spots (fractions 15\ufffd\ufffd\ufffd20) correspond to phosphokanamycin and kanamycin, while the ADAADiK concentration (fractions 9\ufffd\ufffd\ufffd14) is too low to be detected by ninhydrin. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2058[39m, [32m1432[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D). Inhibition profile of fractions eluted from SP column."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2058[39m, [32m1432[39m))
+  )
+)
+15:23:43.887 [main] WARN  o.a.pdfbox.pdmodel.font.PDSimpleFont - No Unicode mapping for f_i (31) in font QOGYUK+MyriadPro-Regular
+15:23:43.914 [main] WARN  o.a.pdfbox.pdmodel.font.PDSimpleFont - No Unicode mapping for f_l (30) in font QOGYUK+MyriadPro-Regular
+15:23:43.999 [main] WARN  o.a.pdfbox.pdmodel.font.PDSimpleFont - No Unicode mapping for f_f (29) in font QOGYUK+MyriadPro-Regular
+2018.11.10 15:23:46 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/2063853/GPF_Workflow.pdf only has a single caption, no need to segment the image.
+2018.11.10 15:23:49 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Bio-function analysis and comparison; "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m6[39m, [32m7[39m, [32m2058[39m, [32m157[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Tox-function analysis and comparison."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m4[39m, [32m194[39m, [32m2058[39m, [32m332[39m))
+  )
+)
+2018.11.10 15:24:33 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Bio-function analysis; "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m15[39m, [32m18[39m, [32m1752[39m, [32m5026[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Tox-function analysis."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m2221[39m, [32m18[39m, [32m3950[39m, [32m4215[39m)
+    )
+  )
+)
+2018.11.10 15:24:33 [main] WARN figtools.AnalyzeImage.$anonfun:126:25 - File /Users/nathandunn/repositories/figtools/bin/figures/2081416/am5b09577_si_001.pdf contains more than one image, skipping
+2018.11.10 15:24:36 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"CA"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"Human lung slices were exposed to 6\ufffd\ufffd106 PFU/ml of PR8 or OK/09 for 4 h, 8 h, 12 h, 16 h, 24 h, and 32 h. Total RNA was then isolated from lung slices. Quantitative RT-PCR was performed using 100 ng sample RNA and SYBR Green (Quanta Biosciences) in a BIO-RAD iCycler IQ instrument (Hercules, CA)"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Transcript levels of RIG-1 (A)"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m" and IFN-\ufffd\ufffd (B)"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m15[39m, [32m15[39m, [32m1892[39m, [32m1967[39m))
+  )
+)
+2018.11.10 15:24:36 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/209598/Figure_1.tif only has a single caption, no need to segment the image.
+2018.11.10 15:24:41 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"6"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", 6.48 and 5.9 respectively); the curves represent a quadratic link between mean and variance ( with \ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd4.4"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m10[39m, [32m9[39m, [32m2362[39m, [32m2320[39m),
+      [33mBox[39m([32m11[39m, [32m9[39m, [32m1105[39m, [32m1062[39m)
+    )
+  ),
+  [32m"8"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", 8.9 and 1.1 respectively)."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1268[39m, [32m1264[39m, [32m2362[39m, [32m2331[39m)
+    )
+  )
+)
+2018.11.10 15:24:41 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/209820/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:24:41 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/209940/Figure_4.tif only has a single caption, no need to segment the image.
+2018.11.10 15:24:41 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/211357/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:24:41 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/211577/Figure_5.tif only has a single caption, no need to segment the image.
+2018.11.10 15:24:41 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/211668/Figure_6.tif only has a single caption, no need to segment the image.
+2018.11.10 15:24:41 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/213686/Figure_9.tif only has a single caption, no need to segment the image.
+2018.11.10 15:24:43 [main] WARN figtools.GappedImageSegmenter.segment:122:17 - No largest bounding box found!
+2018.11.10 15:24:43 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 0/17414740=0.0 is less than 0.4, skipping
+2018.11.10 15:24:43 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:24:46 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"E. coli and P. aeruginosa both contain bioH but P. aeruginosa has bioH within its bio operon upstream of bioC whereas the E. coli bioH is located elsewhere on the chromosome"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m0[39m, [32m2346[39m, [32m1217[39m),
+      [33mBox[39m([32m0[39m, [32m1218[39m, [32m2346[39m, [32m1476[39m)
+    )
+  ),
+  [32m"H"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". H. influenzae and C. jejuni have bioG within their bio operons upstream of bioC"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m1218[39m, [32m2346[39m, [32m1476[39m),
+      [33mBox[39m([32m0[39m, [32m1477[39m, [32m2346[39m, [32m1854[39m)
+    )
+  ),
+  [32m"N"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". N. meningitidis has both bioH and bioG upstream of separate copies of bioC"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". B. fragilis encodes a fusion of BioC and BioG. In place of BioG or BioH, most BioC-containing cyanobacteria carrying, such as Synechococcus spp. and P. marinus, have bioK upstream of bioC."[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.10 15:24:51 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"E. coli strain STL24 (\ufffd\ufffdbioH) was transformed with derivative of pBAD322 carrying various bioG or bioK genes. The transformants were streaked on M9 agar plates in the pattern shown on the plate diagram containing the carbon source shown in either the presence or absence of biotin (bio). All plates were incubated at 37\ufffd\ufffdC except those expressing P. marinus bioK which were incubated at 25\ufffd\ufffdC. To prevent cross-feeding plates divided into three zones by plastic walls were used"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Panel A. Arabinose as carbon source, STL24 \ufffd\ufffdbioH transformed with pBAD322 carrying no insert (lower left third), expressing bioG or bioK (top third of each plate) and the wild type strain transformed with pBAD322 (lower right of each plate)"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m7[39m, [32m8[39m, [32m478[39m, [32m786[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Panel B. The inoculation pattern was the same as Panel A and glycerol was the carbon source in place of arabinose"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m9[39m, [32m900[39m, [32m455[39m, [32m1312[39m),
+      [33mBox[39m([32m523[39m, [32m8[39m, [32m869[39m, [32m429[39m),
+      [33mBox[39m([32m545[39m, [32m449[39m, [32m875[39m, [32m828[39m),
+      [33mBox[39m([32m882[39m, [32m425[39m, [32m1702[39m, [32m1305[39m),
+      [33mBox[39m([32m908[39m, [32m8[39m, [32m1239[39m, [32m429[39m),
+      [33mBox[39m([32m1293[39m, [32m9[39m, [32m1612[39m, [32m410[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Panel C. The streaking pattern is given by the plate diagram. Arabinose was the carbon source and the test strain was E. coli strain STL25 (\ufffd\ufffdbioC\ufffd\ufffdbioH) transformed with pBAD322 carrying no insert (lower left third), bioGC (top third) or the wild type strain transformed with the vector pBAD322 (lower right third)."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m483[39m, [32m906[39m, [32m804[39m, [32m1311[39m),
+      [33mBox[39m([32m1359[39m, [32m940[39m, [32m1668[39m, [32m1240[39m)
+    )
+  )
+)
+2018.11.10 15:24:51 [main] WARN figtools.AnalyzeImage.$anonfun:126:25 - File /Users/nathandunn/repositories/figtools/bin/figures/2161657/jp5b00340_si_001.pdf contains more than one image, skipping
+2018.11.10 15:24:56 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"A. Structural comparison of biological models (top panels) with bio-inspired vehicles (bottom) used for experimental comparisons (both are 16.4 cm diameter). Only flap versions of the robotic vehicles are shown"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m11[39m, [32m12[39m, [32m1326[39m, [32m751[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". B. Comparison of the maximum normalized swimming speeds of jellyfish vehicles with representative values for their natural counterparts, Aurelia aurita (14.7 cm diameter) and Cyanea capillata (10 cm diameter)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m18[39m, [32m718[39m, [32m1338[39m, [32m2001[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". C. Comparison of the normalized swimming speed averaged over the swimming cycle. The Reynolds numbers (Re) shown are averages over 3 swimming cycles. We examined a flap and a no-flap version of both the A. aurita and C. capillata vehicle models (icons illustrate each version). Bars are the mean values over 3 consecutive swimming cycles (\ufffd\ufffd st.dev.)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m18[39m, [32m718[39m, [32m1338[39m, [32m2001[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". D. Bell kinematics at of no-flap and flap vehicles and live Aurelia during bell contraction. Scale represents 1 cm."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m24[39m, [32m2037[39m, [32m1296[39m, [32m2662[39m)
+    )
+  )
+)
+2018.11.10 15:25:02 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Sepharcyl S100 \ufffd\ufffdKTA FPLC of purified hep-ATIII. A 9\ufffd\ufffd\ufffd14 ml fraction was separated, termed as hep-ATIII and used for our experiments. Detection at 260 nm for protein detection and 280 nm for heparin detection is shown. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m15[39m, [32m27[39m, [32m2073[39m, [32m2335[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Hep-ATIII purity and molecular weight were also determined by SDS-PAGE and silver staining (Bio-Rad kit) of a 15% slab gel. For molecular weight determination a low-range protein molecular weight marker (Bio-Rad) was used. Lane 1\ufffd\ufffd\ufffd2 \ufffd\ufffdg hep-ATIII; lane 2: phosphorylase B (97 kDa), serum albumin (69 kDa), carbonic anhydrase (31 kDa), trypsin inhibitor (21.5 kDa), aprotinin (6.5 kDa)."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m2393[39m, [32m13[39m, [32m3426[39m, [32m1556[39m)
+    )
+  )
+)
+2018.11.10 15:25:02 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/220987/Figure_5.tif only has a single caption, no need to segment the image.
+2018.11.10 15:25:06 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A) female gill and "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m12[39m, [32m12[39m, [32m1695[39m, [32m677[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) penis from a threshold of 10\ufffd\ufffd\ufffd8 M. No activity on "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m19[39m, [32m750[39m, [32m1892[39m, [32m1225[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) rectum. \ufffd\ufffd3-induced contraction on "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m16[39m, [32m1368[39m, [32m1866[39m, [32m2667[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D) penis from a threshold of 10\ufffd\ufffd\ufffd9 M."[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.10 15:25:06 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/224708/Figure_6.tif only has a single caption, no need to segment the image.
+2018.11.10 15:25:06 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/226917/Figure_5.tif only has a single caption, no need to segment the image.
+2018.11.10 15:25:09 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"Panel A: 10\ufffd\ufffd\ufffd20% SDS-PAGE gel stained with Bio-Safe Coomassie. Lane 1, molecular mass markers; lane 2, 10 \ufffd\ufffdg Pdu MCPs purified from wild-type Salmonella; lane 3, 10 \ufffd\ufffdg Pdu MCPs purified from a pduQ deletion mutant BE903"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m15[39m, [32m15[39m, [32m1682[39m, [32m1808[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Panel B: Western blot with antisera against PduQ peptide (51\ufffd\ufffd\ufffd64). Lane 1, 10 \ufffd\ufffdg Pdu MCPs purified from wild-type Salmonella; lane 2, 10 \ufffd\ufffdg Pdu MCPs purified from \ufffd\ufffdpduQ mutant BE903."[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.10 15:25:12 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 7211393/21314816=0.3383277153319081 is less than 0.4, skipping
+2018.11.10 15:25:12 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:25:21 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E) STMN1 protein level in miR-101 mimics or inhibitor-treated T47D cells was detected by western blot. The bands were analyzed using the Quantity One analyzing system (Bio-Rad Laboratory inc.). The expression of \ufffd\ufffd-ACTIN served as an internal control. The black histogram represents the optical densities of the signals quantified by densitometric analysis and represented as STMN1 intensity/\ufffd\ufffd-ACTIN intensity to normalize for gel loading and transfer. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m555[39m, [32m2223[39m, [32m2395[39m))
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(F) The expression of Stmn1 mRNA in miR-101 mimics and inhibitor-treated T47D cells were detected by qRT-PCR. \ufffd\ufffd-actin serves as an internal reference among different samples and helps normalize for experimental error. The y-axis displays the relative log2 ratio of Stmn1 normalized by \ufffd\ufffd-actin. *PP"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m555[39m, [32m2223[39m, [32m2395[39m))
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) MiR-101 binding sites in the 3\ufffd\ufffd\ufffd-UTR region of Stmn1 in cross-species. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m800[39m, [32m262[39m, [32m1165[39m, [32m554[39m),
+      [33mBox[39m([32m1166[39m, [32m0[39m, [32m2223[39m, [32m554[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Schematic diagram for constructing the miR-101 binding site into pGL3 control vector. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m0[39m, [32m1165[39m, [32m554[39m),
+      [33mBox[39m([32m800[39m, [32m262[39m, [32m1165[39m, [32m554[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Confirmation of the target gene of miR-101. T47D cells were co-transfected with pre-miR control, miR-101 mimics, anti-miR control or miR-101 inhibitor and Stmn1-pGL3 for dual-luciferase assay. PRL-TK containing Renilla luciferase was co-transfected with 3\ufffd\ufffd\ufffd-UTR of Stmn1 for data normalization. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m800[39m, [32m262[39m, [32m1165[39m, [32m554[39m),
+      [33mBox[39m([32m0[39m, [32m555[39m, [32m2223[39m, [32m2395[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D) Mutation analysis of the miR-101 binding site. When the binding site of miR-101 in the 3\ufffd\ufffd\ufffd-UTR of Stmn1 was completely deleted (Stmn1-pGL3-Mutant), the luciferase activity was significantly decreased in T47D cells co-transfected with miR-101 mimics and Stmn1-pGL3 compared with Stmn1-pGL3-Mutant or pGL3. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m800[39m, [32m262[39m, [32m1165[39m, [32m554[39m),
+      [33mBox[39m([32m0[39m, [32m555[39m, [32m2223[39m, [32m2395[39m)
+    )
+  )
+)
+2018.11.10 15:25:24 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 8026385/21122560=0.37999110903223854 is less than 0.4, skipping
+2018.11.10 15:25:24 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:25:30 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) The protein level of STMN1 in human breast cancer tissues was detected by western blot. The bands were analyzed using the Quantity One analyzing system (Bio-Rad Laboratory inc.). The expression of \ufffd\ufffd-ACTIN served as an internal control. The black histograms represent the expression level of STMN1 in breast cancer tissues of all (A1), ER/PR\ufffd\ufffd\ufffd,HER2\ufffd\ufffd\ufffd(A2), ER/PR+, HER2+ (A3), ER/PR+, HER2\ufffd\ufffd\ufffd (A4) and ER/PR\ufffd\ufffd\ufffd,HER2+(A5) and expressed as STMN1 intensity/\ufffd\ufffd-ACTIN intensity to normalize for gel loading and transfer. N represents non-tumor tissues, and T represents tumor tissues. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2229[39m, [32m1720[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) The mRNA level of Stmn1 in human breast cancer tissues and adjacent normal breast tissues was detected by qRT-PCR. The expression level of Stmn1 was obviously increased in 83.33% individual sample. Statistical analyses were performed to analyze the overall trend of Stmn1 in human breast cancer tissues of all (B1), ER/PR\ufffd\ufffd\ufffd,HER2\ufffd\ufffd\ufffd (B2), ER/PR+, HER2+ (B3), ER/PR+, HER2\ufffd\ufffd\ufffd (B4) and ER/PR\ufffd\ufffd\ufffd, HER2+ (B5). \ufffd\ufffd-actin serves as an internal reference. The y-axis displays the relative log2 ratio of Stmn1 normalized to \ufffd\ufffd-actin. *PP"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m0[39m, [32m2229[39m, [32m1720[39m),
+      [33mBox[39m([32m0[39m, [32m1721[39m, [32m2229[39m, [32m2367[39m)
+    )
+  )
+)
+2018.11.10 15:25:36 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C,E) This strain panel was plated on Pseudomonas Isolation Agar (PIA) and "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m15[39m, [32m1454[39m, [32m787[39m, [32m1873[39m)
+    )
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D,F) LB and incubated at 37\ufffd\ufffdC for 2 days. Bioluminescence was detected in Bio-Rad XRS Chemidoc Imaging system. The colonies are depicted using epi white illumination (left panel) and corresponding exoS-lux expression using bioluminescence imaging (lower panel). Each experiment was performed at least three times and representative values and images are shown."[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Mucoid (FRD1, PAO1mucA22) and non-mucoid (FRD2, PAO1) P. aeruginosa strains encoding a chromosomal exoS-lux fusion as a reporter for the T3SS were grown in LB and "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m7[39m, [32m7[39m, [32m837[39m, [32m561[39m),
+      [33mBox[39m([32m809[39m, [32m608[39m, [32m1585[39m, [32m2306[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) BM2 (0.5 mM Mg2+, 0.2 mM Ca2+) planktonic cultures. Gene expression was measured every 20 minutes for 18 hours and the maximal gene expression is shown. The values shown are the means from experiments done in triplicate and the error bars represent the standard deviation. All values from mucoid strains (FRD1, mucA22) differ significantly (pt-test) from the corresponding non-mucoid controls (FRD2, PAO1). "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m802[39m, [32m7[39m, [32m1580[39m, [32m566[39m),
+      [33mBox[39m([32m17[39m, [32m1893[39m, [32m785[39m, [32m2306[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C,E) This strain panel was plated on Pseudomonas Isolation Agar (PIA) and "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m13[39m, [32m609[39m, [32m789[39m, [32m1017[39m),
+      [33mBox[39m([32m17[39m, [32m1893[39m, [32m785[39m, [32m2306[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D,F) LB and incubated at 37\ufffd\ufffdC for 2 days. Bioluminescence was detected in Bio-Rad XRS Chemidoc Imaging system. The colonies are depicted using epi white illumination (left panel) and corresponding exoS-lux expression using bioluminescence imaging (lower panel). Each experiment was performed at least three times and representative values and images are shown."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m17[39m, [32m1893[39m, [32m785[39m, [32m2306[39m),
+      [33mBox[39m([32m10[39m, [32m1032[39m, [32m789[39m, [32m1438[39m)
+    )
+  )
+)
+2018.11.10 15:25:45 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(A) Copper "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m29[39m, [32m28[39m, [32m585[39m, [32m1156[39m))
+  ),
+  [32m"I"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(I)-catalyzed cycloaddition (CCCA) reaction between azide and alkyne incorporated to GFPhs-r5M resulted in the formation of triazole-linked protein-protein dimer bio-conjugation. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m38[39m, [32m1575[39m, [32m1455[39m, [32m2333[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) SDS-PAGE analysis of CCCA reaction between GFPhs-r5M proteins incorporated with Hpg (alkyne) and Aha (azide group). Lane 1: CCCA reaction without catalysis agents, CuSO4 and L-ascorbic acid; lane 2: CCCA reaction with catalysis agents, CuSO4 and L-ascorbic acid. This result shows the formation of triazole-linked protein-protein bio-conjugation of GFPhs-r5M dimer. M is molecular weight marker, thick arrow indicates the protein-protein conjugated GFPhs-r5M dimer of 55.2 kDa and grey arrow indicates the 27.6 kDa monomer of GFPhs-r5M containing Hpg and Aha respectively."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1432[39m, [32m29[39m, [32m2729[39m, [32m2411[39m),
+      [33mBox[39m([32m23[39m, [32m1116[39m, [32m1389[39m, [32m1549[39m),
+      [33mBox[39m([32m704[39m, [32m343[39m, [32m1447[39m, [32m1120[39m)
+    )
+  )
+)
+2018.11.10 15:25:48 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 4267296/15451788=0.27616842788679213 is less than 0.4, skipping
+2018.11.10 15:25:48 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:25:51 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A)"[39m,
+      [32m" HEK293 reporter cells were incubated with CGK062 in the presence of 0.75 \ufffd\ufffdM BIO. In (A)"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m244[39m, [32m801[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m" HEK293 reporter cells were incubated with CGK062 in the presence of 20 mM LiCl. (B)"[39m,
+      [32m" and (B)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m245[39m, [32m0[39m, [32m2012[39m, [32m801[39m),
+      [33mBox[39m([32m0[39m, [32m802[39m, [32m2012[39m, [32m1918[39m)
+    )
+  ),
+  [32m"P"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", after 15 h, luciferase activities were determined and reported as relative light unit (RLU) normalized to cell titer. The results are the average of three experiments, and the bars indicate standard deviations. *, P"[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.10 15:25:51 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/234722/Figure_1.tif only has a single caption, no need to segment the image.
+2018.11.10 15:25:51 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/237308/Figure_6.tif only has a single caption, no need to segment the image.
+2018.11.10 15:25:54 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) 5\ufffd\ufffd\ufffd 32P-labelled CopT RNA was incubated for 2 min at 37\ufffd\ufffdC in the presence of Kid or CcdB prior to separation on 8% polyacrylamide gels in the presence of urea. Tracks: 1, C\ufffd\ufffd\ufffd, untreated full-length "[39m,
+      [32m"(A): Total RNA (uncleaved and cleaved products) was calculated for each track scanning the different bands using the Quantity One\ufffd\ufffd program (Bio-Rad). RNase activity was calculated as the percentage of full length RNA substrate. The average value for each condition was calculated from three independent experiments. The 100% value indicates absence of RNase activity. The standard deviation is indicated above the different bars. A Student's t-test indicated that the differences between values in lanes 2 and 3, linked with a bracket, were significant (p-value\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd0.0067). ** Represents a p-value\ufffd\ufffd\ufffd0.01."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m7[39m, [32m7[39m, [32m1038[39m, [32m1139[39m))
+  ),
+  [32m"FL"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(FL) RNA; 2, RNA treated with 0.2 \ufffd\ufffdM Kid; 3, RNA treated with 0.2 \ufffd\ufffdM Kid and 0.2 \ufffd\ufffdM Kis; 4, RNA treated with 0.2 \ufffd\ufffdM Kid and 0.2 \ufffd\ufffdM CcdA; 5, RNA treated with 0.2 \ufffd\ufffdM CcdA; 6, RNA treated with 0.2 \ufffd\ufffdM CcdB; 7, RNA treated with 0.2 \ufffd\ufffdM CcdA and 0.2 \ufffd\ufffdM CcdB; 8, RNA treated with 0.2 \ufffd\ufffdM Kid and 1.5 \ufffd\ufffdM BSA; 9, RNA treated with 0.2 \ufffd\ufffdM Kid and 0.2 \ufffd\ufffdM CcdB. "[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) Bar graph representation and quantitative analysis of data in "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1032[39m, [32m237[39m, [32m2020[39m, [32m1169[39m)
+    )
+  )
+)
+2018.11.10 15:25:59 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", FYJ105 (\ufffd\ufffdfadR), FYJ133 (\ufffd\ufffdarcA), FYJ134 (\ufffd\ufffdcrp), FYJ141 (\ufffd\ufffdarcA \ufffd\ufffdfadR), FYJ142 (\ufffd\ufffdcrp \ufffd\ufffdfadR), FYJ169 (\ufffd\ufffdcrp \ufffd\ufffdarcA), and FYJ170 (\ufffd\ufffdcrp \ufffd\ufffdarcA \ufffd\ufffdfadR), respectively. E"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m8[39m, [32m1954[39m, [32m1319[39m, [32m2689[39m)
+    )
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"A"[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m8[39m, [32m8[39m, [32m1179[39m, [32m806[39m))
+  ),
+  [32m"WT"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Modulation of LacZ activity of the fadBA-lacZ transcriptional fusion by different regulatory proteins under anaerobic conditions. The fadBA-lacZ strains were SI203 (WT)"[39m,
+      [32m". Transcriptional control of the fadH-lacZ fusion by different regulatory proteins under anaerobic conditions. The fadH-lacZ fusion strains were FYJ55 (WT)"[39m,
+      [32m". Effect on fadL transcriptional levels by different regulatory proteins under anaerobic conditions. The fadL-lacZ were FYJ104 (WT)"[39m,
+      [32m". Regulation of fadD transcription by different regulatory proteins under anaerobic conditions. The fadD-lacZ fusion strains were FYJ159 (WT)"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m". Alignments of the ArcA-P binding sites of with those of other fad regulon genes. Red background indicates strictly conserved bases whereas yellow background denotes less conserved bases. B"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m8[39m, [32m8[39m, [32m1179[39m, [32m806[39m))
+  ),
+  [32m"P"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", FYJ161 (\ufffd\ufffdfadR), FYJ162 (\ufffd\ufffdarcA), FYJ163 (\ufffd\ufffdcrp), FYJ164 (\ufffd\ufffdarcA \ufffd\ufffdfadR), FYJ165 (\ufffd\ufffdcrp \ufffd\ufffdfadR), FYJ166 (\ufffd\ufffdcrp \ufffd\ufffdarcA), and FYJ167 (\ufffd\ufffdcrp \ufffd\ufffdarcA \ufffd\ufffdfadR), respectively. The strains were grown on LB agar plates supplemented with 5 mM nitrate (KNO3) as the electron receptor. Anaerobic environments were generated using Bio-Bag environmental chamber type A as described [17]. beta-Galactosidase activities were recorded from at least six independent assays and are expressed as means \ufffd\ufffd standard deviations. *, P"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", SI207 (\ufffd\ufffdfadR), FYJ82 (\ufffd\ufffdarcA), FYJ83 (\ufffd\ufffdcrp), FYJ84 (\ufffd\ufffdarcA \ufffd\ufffdfadR), FYJ85 (\ufffd\ufffdcrp \ufffd\ufffdfadR), FYJ86 (\ufffd\ufffdcrp \ufffd\ufffdarcA) and FYJ87 (\ufffd\ufffdcrp \ufffd\ufffdarcA \ufffd\ufffdfadR), respectively. C"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m7[39m, [32m820[39m, [32m1178[39m, [32m1364[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", FYJ56 (\ufffd\ufffdfadR), FYJ64 (\ufffd\ufffdarcA), FYJ65 (\ufffd\ufffdcrp), FYJ68 (\ufffd\ufffdarcA \ufffd\ufffdfadR), FYJ81 (\ufffd\ufffdcrp \ufffd\ufffdfadR), FYJ79 (\ufffd\ufffdcrp \ufffd\ufffdarcA) and FYJ80 (\ufffd\ufffdcrp \ufffd\ufffdarcA \ufffd\ufffdfadR), respectively. D"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m9[39m, [32m1382[39m, [32m1177[39m, [32m1932[39m)
+    )
+  )
+)
+2018.11.10 15:26:03 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a) Dependency network of changes from baseline to the end of the low calorie diet. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m8[39m, [32m15[39m, [32m815[39m, [32m848[39m))
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(b) Dependency network of changes from baseline to the end of the weight maintenance diet."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m873[39m, [32m7[39m, [32m1628[39m, [32m765[39m))
+  )
+)
+2018.11.10 15:26:03 [main] WARN figtools.AnalyzeImage.$anonfun:126:25 - File /Users/nathandunn/repositories/figtools/bin/figures/2395216/jp403476n_si_001.pdf contains more than one image, skipping
+2018.11.10 15:26:08 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Measurement of protein phosphorylation in intestinal tissue lysates by Bio-Plex. The heat map is organized such that the columns represent the phospho-signal time courses, while the rows represent the experimental conditions. Different doses, regions, and genotypes are color-coded. Each phospho-signal is arranged sequentially as a function of time (left to right, 0 to 4 h). The intensity of the heat map represents the average of technical duplicates of the median fluorescence intensity (normalized to the highest value of each signal) resulting from each assay. Data are compiled from three independent experiments for each condition. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m4[39m, [32m2041[39m, [32m676[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) A three-dimensional PLSDA model constructed using signaling time courses obtained from the different conditions and their correlating apoptotic phenotypes. Each data point represents scores generated by the model, composed of all signaling time courses of a particular experimental condition mapped onto the three-dimensional latent variable space. The three orthogonal latent variable axes separate the scores by apoptotic phenotype: LV1 by the presence or absence of apoptosis, LV2 by the magnitude of apoptosis, and LV3 by the timing of apoptosis. The percentages on the axes represent the percent variance in the dataset captured by a particular LV. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m4[39m, [32m2041[39m, [32m676[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Loadings on LV2, the latent variable that correlates the magnitude of TNF-\ufffd\ufffd-induced apoptosis. The y-axis quantifies the positive or negative contribution of a particular signal to LV2."[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m31[39m, [32m639[39m, [32m2049[39m, [32m1497[39m)
+    )
+  )
+)
+2018.11.10 15:26:13 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Measurement of cytokine protein levels in intestinal tissue lysates by Bio-Plex. The heat map is organized in a similar manner as Figure 2A. Data are compiled from three independent experiments for each condition. "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m94[39m, [32m651[39m, [32m1989[39m, [32m1396[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) A two-dimensional PLSDA model constructed using early cytokine data (0, 0.5, 1 h) obtained from the different conditions and their correlating apoptotic phenotypes. Each data point represents scores generated by the model, composed of the early time points of all cytokines measured of a particular experimental condition mapped onto the two-dimensional latent variable space. The dotted gray line represents the 95% confidence limit of the distribution of the scores. The two orthogonal latent variable axes separate the scores by apoptotic phenotype: LV1 by the magnitude of apoptosis and LV2 by the timing of apoptosis. The percentages on the axes represent the percent variance in the dataset captured by a particular LV. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m1[39m, [32m3[39m, [32m2043[39m, [32m675[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Loadings for the PLSDA model plotted on LV1 and LV2. MCP-1 clusters most significantly with the lowest degree of apoptotic phenotype (low magnitude, late timing)."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m1[39m, [32m3[39m, [32m2043[39m, [32m675[39m))
+  )
+)
+2018.11.10 15:26:13 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/240103/Figure_1.tif only has a single caption, no need to segment the image.
+2018.11.10 15:26:13 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/240475/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.10 15:26:15 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 2933500/10960236=0.2676493462367051 is less than 0.4, skipping
+2018.11.10 15:26:15 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.10 15:26:17 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(a) free DOX, "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1890[39m, [32m1448[39m))
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(b)PEG-hyd-DOX; cumulative accumulation of DOX in "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1890[39m, [32m1448[39m))
+  ),
+  [32m"c"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(c) tumor and "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1890[39m, [32m1448[39m))
+  ),
+  [32m"d"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(d) heart assayed by LC/MS/MS. (n\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd5, mean \ufffd\ufffd SD)."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1890[39m, [32m1448[39m))
+  )
+)
+2018.11.10 15:26:23 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"e"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(d, e, f). In normal glucose conditions ANXA1 protein is highly expressed in WS1 fibroblast cells and accumulates at the plasma membrane and at lamellipodial extrusions (arrows). An increase of glucose levels leads to a reduction of ANXA1 expression and inhibits the relocation of the protein to the plasma membrane "[39m,
+      [32m"(e). The data are representative of 5 experiments with similar results. Bar\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd25 \ufffd\ufffdm."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m222[39m, [32m565[39m, [32m733[39m, [32m991[39m))
+  ),
+  [32m"f"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(d, e, f). In normal glucose conditions ANXA1 protein is highly expressed in WS1 fibroblast cells and accumulates at the plasma membrane and at lamellipodial extrusions (arrows). An increase of glucose levels leads to a reduction of ANXA1 expression and inhibits the relocation of the protein to the plasma membrane "[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mList[39m(),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m49[39m, [32m7[39m, [32m639[39m, [32m524[39m),
+      [33mBox[39m([32m914[39m, [32m40[39m, [32m1243[39m, [32m528[39m),
+      [33mBox[39m([32m1363[39m, [32m40[39m, [32m1982[39m, [32m991[39m)
+    )
+  ),
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a, b, c) and HG conditions "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m769[39m, [32m565[39m, [32m1331[39m, [32m982[39m)
+    )
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a, b, c) and HG conditions "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m50[39m, [32m1076[39m, [32m1367[39m, [32m1721[39m)
+    )
+  ),
+  [32m"c"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a, b, c) and HG conditions "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1375[39m, [32m1080[39m, [32m1956[39m, [32m1719[39m)
+    )
+  ),
+  [32m"d"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(d, e, f). In normal glucose conditions ANXA1 protein is highly expressed in WS1 fibroblast cells and accumulates at the plasma membrane and at lamellipodial extrusions (arrows). An increase of glucose levels leads to a reduction of ANXA1 expression and inhibits the relocation of the protein to the plasma membrane "[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m48[39m, [32m1725[39m, [32m1956[39m, [32m2305[39m)
+    )
+  )
+)
+2018.11.10 15:26:23 [main] WARN figtools.AnalyzeImage.$anonfun:126:25 - File /Users/nathandunn/repositories/figtools/bin/figures/2444011/am3026807_si_001.pdf contains more than one image, skipping
+2018.11.10 15:26:23 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/24641/1471-2105-9-S2-S4-3.jpg only has a single caption, no need to segment the image.
+{
+  "1643225":{
+    "Fig_6.tif":{
+      "E":{
+        "descriptions":[
+          "(E) KC and "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1677,
+            "y2":1083
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          "(F) MIP-2 were measured using Bio-Rad Bio-Plex assay. n = 6???8 in each group and P"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "(A) IL-6, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1677,
+            "y2":1083
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) IL-10, "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) TNF-??, "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D) IFN-??, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1677,
+            "y2":1083
+          }
+        ]
+      }
+    }
+  },
+  "1643227":{
+    "Fig_8.tif":{
+      "E":{
+        "descriptions":[
+          "(E) KC and "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1674,
+            "y2":1057
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          "(F) MIP-2 were measured using Bio-Rad Bio-Plex assay. n = 6???8 in each group and P"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1674,
+            "y2":1057
+          }
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "(A) IL-6, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1674,
+            "y2":1057
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) IL-10, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1674,
+            "y2":1057
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) TNF-??, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1674,
+            "y2":1057
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D) IFN-??, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1674,
+            "y2":1057
+          }
+        ]
+      }
+    }
+  },
+  "1643704":{
+    "Fig_4.tif":{
+      "A":{
+        "descriptions":[
+          "(A).The visualization is a hierarchical heat-map generated from edgeR analysis with filtered data where the major boxes represent a family (or category) of related functions. Each individual colored rectangle is a particular biological function or disease and the color indicates its predicted state: Increasing (orange), or decreasing (blue). Darker colors indicate higher absolute Z-scores. In this view the size of the rectangle is correlated with increasing overlap significance (p-value). The image has been cropped for better readability. "
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":0,
+            "x2":4295,
+            "y2":1728
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Heat-map comparison of Diseases and Biofunctions affected across all 4 analysis (edgeR 0.1 cpm/all, edgeR 0.1cpm/ 22, DESEq2, TSPM). Similarly color represents predicted state. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":1878,
+            "x2":1556,
+            "y2":3007
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C). Individual Z-scores and mean Z-scores per each Bio Function affected. The Z-score algorithm is designed to reduce the chance that random data will generate significant predictions. Negative Z-scores indicate a down-regulation of Biofunction, positives Z-scores indicate an up-regulation of function. Absolute Z-score values higher than 2.0 can be used to make biological predictions."
+        ],
+        "rois":[
+          {
+            "x":1927,
+            "y":2311,
+            "x2":4267,
+            "y2":3006
+          }
+        ]
+      }
+    }
+  },
+  "164453":{
+    "Figure_4.tif":{
+      "A":{
+        "descriptions":[
+          "(A, B) IF microscopy to detect N-WASP, Arp3 recruitment and F-actin comet tail formation by intracellular S. flexneri strains. HeLa cells were infected with mid-exponential phase S. flexneri ??icsA ??rmlD (R-LPS) strains expressing either IcsA::BIO only or co-expressing IcsA::BIO V382R (N-WASP IR II) and IcsA::BIO Y716G D717G (N-WASP IR III), and formalin fixed. HeLa cells and bacteria nuclei were labelled with DAPI (blue), and N-WASP was labelled with anti-N-WASP antibody and either ",
+          "(A) Alex Fluor 488-conjugated donkey anti-rabbit antibody (green) or ",
+          "(A) Arp3 was labelled with anti-Arp3 monoclonal antibody and an Alex Fluor 594-conjugated donkey anti-mouse antibody (red). "
+        ],
+        "rois":[
+          {
+            "x":8,
+            "y":7,
+            "x2":1731,
+            "y2":882
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(A, B) IF microscopy to detect N-WASP, Arp3 recruitment and F-actin comet tail formation by intracellular S. flexneri strains. HeLa cells were infected with mid-exponential phase S. flexneri ??icsA ??rmlD (R-LPS) strains expressing either IcsA::BIO only or co-expressing IcsA::BIO V382R (N-WASP IR II) and IcsA::BIO Y716G D717G (N-WASP IR III), and formalin fixed. HeLa cells and bacteria nuclei were labelled with DAPI (blue), and N-WASP was labelled with anti-N-WASP antibody and either ",
+          "(B) Alex Fluor 594-conjugated donkey anti-rabbit antibody (red). ",
+          "(B) F-actin was labelled with Alexa Fluor-488-phalloidin (green). IF images were observed at 100??magnification. Arrows indicate N-WASP, Arp3 recruitment and F-actin tail formation. Enlargements of relevant region shown for clarity. Strains were assessed in two independent experiments. Scale bar???=???10 ??m. "
+        ],
+        "rois":[
+          {
+            "x":12,
+            "y":1087,
+            "x2":1727,
+            "y2":1533
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Quantification of N-WASP/Arp3 recruitment, and ",
+          "(C), or recruited N-WASP and formed F-actin comet tail/capping ",
+          "(C); and, as percentage of N-WASP recruitment/F-actin tail or capping formation ?? SEM of two independent experiments "
+        ],
+        "rois":[
+          {
+            "x":1088,
+            "y":2057,
+            "x2":2060,
+            "y2":2744
+          },
+          {
+            "x":128,
+            "y":1541,
+            "x2":1727,
+            "y2":1926
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D) N-WASP/F-actin tail or capping formation, by intracellular S. flexneri ??icsA ??rmlD strains expressing IcsA::BIO only or co-expressing IcsA::BIO V382R (N-WASP IR II) and IcsA::BIO Y716G D717G (N-WASP IR III). Bacteria that either recruited both N-WASP and Arp3 ",
+          "(D), were scored from infected HeLa cells (n???=???20 HeLa cells; ???250???350 bacteria). Data are represented as percentage of N-WASP/Arp3 recruitment ?? SEM of two independent experiments ",
+          "(D). **, 0.001PPt test). IR II & III???=???Interacting region II and III (S. flexneri co-expressing IcsA::BIO V382R and IcsA::BIO Y716G D717G)."
+        ],
+        "rois":[
+          {
+            "x":17,
+            "y":2056,
+            "x2":988,
+            "y2":2735
+          }
+        ]
+      }
+    }
+  },
+  "1645127":{
+    "Fig 1.tif":{
+      "A":{
+        "descriptions":[
+          "(A) After purification steps, different concentrations of purified rgD5 protein (55 kDa) were separated by SDS-PAGE in a 12% gel and stained overnight with Coomassie Blue R-250. Lane kDa: Unstained Protein MW Marker (Fermentas/Thermo Fisher Scientific); Lane 10: 10 ??g rgD5; Lane 5: 5 ??g rgD5; Lane 2: 2 ??g of rgD5; "
+        ],
+        "rois":[
+          {
+            "x":4,
+            "y":4,
+            "x2":1828,
+            "y2":1044
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Western blot was performed with mouse monoclonal antibody (MAb) Anti-6xHis HRP conjugated (Anti-6xHis) or with polyclonal antibodies (PAb) from bovine immunized with inactivated BoHV-5 (Anti-BoHV-5). Lane M: Prestained Low Range Protein MW Standard (Bio-Rad); Lane 1: Purified rgD5; Lane 2: KM71H supernatant of non-transformed yeast cells after methanol induction used as negative control."
+        ],
+        "rois":[
+          
+        ]
+      }
+    }
+  },
+  "166143":{
+    "Figure_1.tif":{
+      "A":{
+        "descriptions":[
+          ". A. ???Batch Query??? was run either using Gene symbol or JGI transcript ID and NCBI RefSeq"
+        ],
+        "rois":[
+          {
+            "x":37,
+            "y":37,
+            "x2":3813,
+            "y2":7182
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". B. ???Probe Match??? found probes that identically match AQP-coding sequences"
+        ],
+        "rois":[
+          {
+            "x":37,
+            "y":37,
+            "x2":3813,
+            "y2":7182
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          ". C. AQP-targeting probe sets were identified through BLASTN alignment of target sequence and Populus trichocarpa genome sequences (v1.1 and v2.0). Venn diagram exhibits the number of probe sets retrieved from each procedure."
+        ],
+        "rois":[
+          {
+            "x":37,
+            "y":37,
+            "x2":3813,
+            "y2":7182
+          }
+        ]
+      }
+    }
+  },
+  "167134":{
+    "Figure_4.tif":{
+      "A":{
+        "descriptions":[
+          "(A) or gelatin-zymography "
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":7,
+            "x2":998,
+            "y2":1270
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B). The negative control (CTRL) was represented by non-activated and untreated cells. CANP-2 present in lysates was identified by comigration with 0.5 ??g of CANP-2 standard. MMP-2 and MMP-9 were identified by their apparent molecular mass of 67 and 92 kDa, respectively, using pre-stained molecular weight markers (Bio Rad). Histograms show the quantitation of CANP-2, MMP-2 and MMP-9 levels, expressed as optical density "
+        ],
+        "rois":[
+          {
+            "x":1029,
+            "y":7,
+            "x2":1952,
+            "y2":1270
+          }
+        ]
+      },
+      "OD":{
+        "descriptions":[
+          "(OD) ?? mm2, calculated after scanning densitometry and computerized analysis of gels. Results represent the mean ?? SD of three separate experiments performed with different cell populations. Statistically significant values different from positive control, represented by lysates or supernatants from LPS-activated astrocytes (LPS), are indicated with * (One-way Anova followed by Student ??? Newman ??? Keuls post hoc test; *P2, pH 7.4) in the absence (Control) or in the presence of IFN-?? (500 U/ml). E-64 (20 ??M), IA (10 mM) or PA (4 mM) were used as positive controls. Staining and destaining of the gels revealed that IFN-?? was not able to inhibit the activity of CANP-2 as well as MMP-2 and MMP-9 as already observed for E-64 and IA or PA. The percentages of inhibition, calculated in comparison to control, are reported in the lower part of Figure 4C and D."
+        ],
+        "rois":[
+          
+        ]
+      }
+    }
+  },
+  "167564":{
+    "Figure_5.tif":{
+      "A":{
+        "descriptions":[
+          "A. At the end of the study, various organs including tumor, liver, kidney and spleen were isolated from five individual mice and tissues were digested using microwave as described in method. Level of NCe was measured using ICP-MS. Data represents mean+SEM of 5 tissues of individual mouse"
+        ],
+        "rois":[
+          {
+            "x":13,
+            "y":13,
+            "x2":1743,
+            "y2":1970
+          },
+          {
+            "x":1743,
+            "y":13,
+            "x2":3147,
+            "y2":1948
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". B. Agglomeration of NCe localized in vacuole in ovarian cancer tumor examined by TEM as described in Method in detail."
+        ],
+        "rois":[
+          {
+            "x":1743,
+            "y":13,
+            "x2":3147,
+            "y2":1948
+          }
+        ]
+      }
+    }
+  },
+  "168296":{
+    "Figure_2.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Trypan blue staining of cell death in N. benthamiana leaves. Pto-FLAG, pto mutant-FLAG, AvrPto, AvrPtoB, and prfD1416V-3HA constructs were transiently expressed in ProPrf:Prf-5Myc or wild-type N. benthamiana as indicated and the tissue was stained 2 days post infiltration. The bar indicates 0.5 mm. Dead cells stain dark blue in this qualitative assay. Each row is derived from a single leaf, within which relative amounts of cell death were comparable, and is representative of six replicates. "
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":7,
+            "x2":521,
+            "y2":687
+          },
+          {
+            "x":1093,
+            "y":20,
+            "x2":2027,
+            "y2":242
+          },
+          {
+            "x":560,
+            "y":20,
+            "x2":1051,
+            "y2":242
+          }
+        ]
+      },
+      "IP":{
+        "descriptions":[
+          "(IP) using anti-HA antibodies. Immunoblots "
+        ],
+        "rois":[
+          {
+            "x":829,
+            "y":744,
+            "x2":2021,
+            "y2":1814
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) The slow-migrating form of Pto requires kinase activity and double phosphorylation. Pto-FLAG, pto mutant-FLAG, AvrPto, and Prf-3HA constructs were transiently expressed in wild-type N. benthamiana as indicated, Prf-3HA was immunoprecipitated "
+        ],
+        "rois":[
+          {
+            "x":829,
+            "y":519,
+            "x2":1053,
+            "y2":687
+          },
+          {
+            "x":12,
+            "y":519,
+            "x2":788,
+            "y2":998
+          },
+          {
+            "x":560,
+            "y":298,
+            "x2":1852,
+            "y2":687
+          }
+        ]
+      },
+      "IB":{
+        "descriptions":[
+          "(IB) were performed with the antibodies indicated on the left. "
+        ],
+        "rois":[
+          {
+            "x":30,
+            "y":1042,
+            "x2":821,
+            "y2":1627
+          },
+          {
+            "x":1095,
+            "y":744,
+            "x2":1852,
+            "y2":912
+          },
+          {
+            "x":1361,
+            "y":744,
+            "x2":1586,
+            "y2":912
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Quantification of the relative abundance of slow- and fast-migrating forms of Pto under elicitation conditions as described in B with Quantity One, Bio-Rad (adjusted volume???=???[CNT*mm2] data counts/mm2). Error bars are standard deviation of relative abundance between the same samples in independent immunoblots, probed with anti-Pto antibody."
+        ],
+        "rois":[
+          {
+            "x":829,
+            "y":744,
+            "x2":2021,
+            "y2":1814
+          }
+        ]
+      }
+    }
+  },
+  "168398":{
+    "Figure_3.tif":{
+      "A":{
+        "descriptions":[
+          "(A) In trans inhibition of Pto S198 and T199 phosphorylation. The slower migrating from of Pto is suppressed in trans by prfK1128A and ptoD164N, but not ptoS189A/T199A, ptoS189A and ptoT199A. Pto-5Myc, Pto-FLAG, pto mutant-FLAG, AvrPto, Prf-3HA, prfK1128A-3HA constructs were transiently expressed in wild-type N. benthamiana as indicated, Prf-3HA and prfK1128A-3HA were immunoprecipitated "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1638,
+            "y2":304
+          }
+        ]
+      },
+      "IP":{
+        "descriptions":[
+          "(IP) using anti-HA antibodies. Immunoblots "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "IB":{
+        "descriptions":[
+          "(IB) were performed with the antibodies indicated on the left. "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) The slower migrating from of Pto was suppressed in trans by prfK1128A and ptoD164N, but not by ptoS189A ptoT199A and ptoS189A/T199A. Pto-5Myc, Pto-FLAG, pto mutant-FLAG, AvrPto, Prf-3HA, prfK1128A-3HA constructs were transiently expressed in wild-type N. benthamiana as indicated. Prf-3HA and prfK1128A-3HA were immunoprecipitated using anti-HA antibodies. The relative abundance of slow- and fast-migrating forms of Pto-5Myc after AvrPto recognition was quantified two days post infiltration, from anti-Myc immunoblots using Quantity One, Bio-Rad (adjusted volume???=???[CNT*mm2] data counts/mm2)."
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":305,
+            "x2":1638,
+            "y2":1648
+          }
+        ]
+      }
+    }
+  },
+  "169425":{
+    "Figure_2.tif":{
+      "E":{
+        "descriptions":[
+          "(E) and others."
+        ],
+        "rois":[
+          {
+            "x":9,
+            "y":8,
+            "x2":1317,
+            "y2":841
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          "(F) and melatonin "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "(A) are down regulated due to the increase of pro-inflammatory cytokines and then up-regulated under the effects of cortisol rhythms. These behaviors result in the circadian variation of bio-energetic proteins "
+        ],
+        "rois":[
+          {
+            "x":9,
+            "y":8,
+            "x2":1317,
+            "y2":841
+          }
+        ]
+      },
+      "M":{
+        "descriptions":[
+          "(M), which in turn drive the patterns of other components in the system. Pro-inflammatory cytokines "
+        ],
+        "rois":[
+          {
+            "x":9,
+            "y":8,
+            "x2":1317,
+            "y2":841
+          }
+        ]
+      },
+      "P":{
+        "descriptions":[
+          "(P), driven by melatonin secretion, are up-regulated to peak around ???4:00AM whereas anti-inflammatory cytokines "
+        ],
+        "rois":[
+          
+        ]
+      }
+    }
+  },
+  "171011":{
+    
+  },
+  "171200":{
+    "Figure_2.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Number of phage clones analyzed from each selection. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":3021,
+            "y2":2832
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Bar graph shows the redundancy of the sequences that were identified. The 10 sequences containing T7-10B in-frame fusions are labelled with their TAIR accession on the top of the corresponding bars."
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":3021,
+            "y2":2832
+          },
+          {
+            "x":0,
+            "y":2833,
+            "x2":3021,
+            "y2":3183
+          }
+        ]
+      }
+    }
+  },
+  "171378":{
+    
+  },
+  "171992":{
+    
+  },
+  "172144":{
+    
+  },
+  "172311":{
+    "Figure_9.tif":{
+      "A":{
+        "descriptions":[
+          "(A) The analysis identified 3 sets of genes: 101, 153 and 318 genes were selected after bio-panning against Pa, Pst(avrRpt2) (avr) and Pst strains respectively. The sets are represented as overlapping Venn diagrams and the number of shared genes is shown in the intersections. The union of the 3 sets produces a total of 472 genes as candidate MAMP/effector ligands. The positions of At1g66740 (AtSP7), At1g67090 (RBCS1A) and At5g47220 (ATERF-2) are shown in each set. Gene products that produced immune interactions in PPIN-1 are represented by coloured dots. "
+        ],
+        "rois":[
+          {
+            "x":20,
+            "y":21,
+            "x2":4005,
+            "y2":2854
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Genes in the 472-gene set were annotated according to the GO categories for Biological Process and the percentage of annotations falling in each category (in bold) was compared to the percentage produced by the 26,303 genes spotted on the microarray (in brackets). Categories with significant (p"
+        ],
+        "rois":[
+          {
+            "x":21,
+            "y":2902,
+            "x2":4246,
+            "y2":5960
+          }
+        ]
+      }
+    }
+  },
+  "172458":{
+    
+  },
+  "176600":{
+    
+  },
+  "176614":{
+    
+  },
+  "176833":{
+    
+  },
+  "177075":{
+    
+  },
+  "181762":{
+    "Figure_7.tif":{
+      "A":{
+        "descriptions":[
+          "(A, C) and b12 "
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":10,
+            "x2":1459,
+            "y2":507
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(A, C) and b12 "
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":563,
+            "x2":2039,
+            "y2":1061
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B, D) to immobilized JR-CSF gp120. Two normal rabbit sera are used as non-immune controls. The results shown are representative of three independent experiments. The dashed horizontal line (???) corresponds to the half-maximal signal (EC50). HIVIG: HIV immune globulin provided by J. Mascola (VRC); DEN3: a mAb to dengue virus envelope provided by D. Burton (TSRI)."
+        ],
+        "rois":[
+          {
+            "x":1500,
+            "y":70,
+            "x2":2017,
+            "y2":418
+          },
+          {
+            "x":10,
+            "y":10,
+            "x2":1459,
+            "y2":507
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(B, D) to immobilized JR-CSF gp120. Two normal rabbit sera are used as non-immune controls. The results shown are representative of three independent experiments. The dashed horizontal line (???) corresponds to the half-maximal signal (EC50). HIVIG: HIV immune globulin provided by J. Mascola (VRC); DEN3: a mAb to dengue virus envelope provided by D. Burton (TSRI)."
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":563,
+            "x2":2039,
+            "y2":1061
+          }
+        ]
+      }
+    }
+  },
+  "182422":{
+    
+  },
+  "183148":{
+    "Figure_6.tif":{
+      "a":{
+        "descriptions":[
+          "(a). Whole worm extract was subjected to SDS-PAGE (T???=???10%) and transferred onto Hybond C membranes. Membrane strips containing the fractionated extract were incubated with fluorescein-labeled P40 (50 ??g; 1125 pmoles)"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1778,
+            "y2":4149
+          }
+        ]
+      },
+      "b":{
+        "descriptions":[
+          "(b) and P26 (40 ??g; 1520 pmoles) "
+        ],
+        "rois":[
+          {
+            "x":1779,
+            "y":0,
+            "x2":3741,
+            "y2":1849
+          }
+        ]
+      },
+      "c":{
+        "descriptions":[
+          "(c). After extensive washing, the bound recombinant fluorescein-labeled polypeptides were detected using an anti-fluorescein antibody labeled with peroxidase. The peroxidase activity was detected using chemiluminescence. The chemiluminescence reaction was exposed to Hyperfilm ECL (GE Healthcare Bio-Sciences Corp., Piscataway, NJ, USA) for 30 s in both experiments."
+        ],
+        "rois":[
+          {
+            "x":1779,
+            "y":1850,
+            "x2":3741,
+            "y2":3636
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          
+        ],
+        "rois":[
+          {
+            "x":1779,
+            "y":3637,
+            "x2":3741,
+            "y2":4149
+          }
+        ]
+      }
+    }
+  },
+  "184842":{
+    
+  },
+  "186806":{
+    
+  },
+  "187231":{
+    
+  },
+  "187371":{
+    
+  },
+  "187457":{
+    
+  },
+  "187617":{
+    "Figure_5.tif":{
+      "A":{
+        "descriptions":[
+          "A) Sequence of protein layering in the Bio Layer Interferometry antibody competition assay: 1) a strepatavidin-coated biosensor is loaded to saturation with 2) biotinylated recombinant human Endoglin (10 ??g/ml), then with 3) a negative control IgG1k or the M999 anti-Endoglin rat IgG2 antibodies (10 ??g/ml) prior to the addition of 4) M999, TRC105, SN6, or SN6h (10 ??g/ml). "
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":7,
+            "x2":759,
+            "y2":620
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Wavelength shifts ",
+          "(B) Wavelength shifts "
+        ],
+        "rois":[
+          {
+            "x":854,
+            "y":7,
+            "x2":1872,
+            "y2":611
+          }
+        ]
+      },
+      "WS":{
+        "descriptions":[
+          "(WS) triggered by the addition of the individual anti-ENG antibodies to ENG in the presence of a ctrl antibody (blue bars), or in the presence of the anti-ENG antibody M999 (red bars). Competition with M999, calculated as (WSCTRL-WSM999)/WSCTRL*100 is indicated at the bottom of the graph. ",
+          "(WS) triggered by the addition of BMP9 in addition to the individual anti-ENG antibodies. BMP9 binding inhibition, calculated as [1-(WSENGAB/WSCTRLAB)]*100, is indicated at the bottom of the graph. Results are the mean +/??? standard deviation of technical triplicates."
+        ],
+        "rois":[
+          
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Sequence of protein layering in the Bio Layer Interferometry BMP9 binding assay: 1) a strepatavidin-coated biosensor is loaded to saturation with 2) biotinylated recombinant human Endoglin (10 ??g/ml), then with 3) a negative control IgG1k or the tested anti-ENG antibodies (M999, TRC105, SN6, SN6h) (10 ??g/ml) prior to the addition of 4) BMP9 (10 ??g/ml). "
+        ],
+        "rois":[
+          {
+            "x":12,
+            "y":621,
+            "x2":1895,
+            "y2":1501
+          }
+        ]
+      }
+    }
+  },
+  "187968":{
+    
+  },
+  "188583":{
+    "Figure_5.tif":{
+      "E":{
+        "descriptions":[
+          "(E) Wortmannin, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":4680,
+            "y2":5359
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          "(F) JNK or "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":4680,
+            "y2":5359
+          }
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "(A) phospo-AKT [p-AKT Ser473], "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":4680,
+            "y2":5359
+          }
+        ]
+      },
+      "G":{
+        "descriptions":[
+          "(G) SB 203580 for 15 min before incubation alone, with IL-2 (200 U/ml), HSP70 (10 ??g/ml) or both for 2 h. Cells were then co-cultured with CD4+CD25??? T cells (E???T ratio 1???5) on 96-well plates coated with anti-CD3 antibodies (OKT3, 1 ??g/ml) in serum-free medium for 48 h. Supernatants were analyzed for IFN-??, TNF-??, IL-10 and TGF-??. Results of four independent experiments, expressed as mean fold increases or decreases in comparison to results obtained for experiments without preactivation of Tregs and without inhibitor treatment (control)."
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":4680,
+            "y2":5359
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) phospo-JNK [p-JNK Thr183/Tyr185], "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":4680,
+            "y2":5359
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) phospo-p38 MAPK [p-p38 MAPK Thr180/Tyr182] and "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":4680,
+            "y2":5359
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D) phospo-ERK1/2 [p-ERK1/2 Thr202/Tyr204/Thr185/Tyr187] was determined by the bead-based multiplex assay (Luminex xMAP technology). Untreated CD4+CD25+ T cells were adjusted to 1.00 by the use of the Bio-Plex Manager 6.0 software and used to calculate the ratios. Furthermore, CD4+CD25+ T cells were treated with 5 ??M of the following intracellular signal transduction inhibitors: "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":4680,
+            "y2":5359
+          }
+        ]
+      }
+    }
+  },
+  "188892":{
+    
+  },
+  "190398":{
+    "Figure_4.tif":{
+      "A":{
+        "descriptions":[
+          "(A), Tuto ",
+          ". A) Bio-A: Collagen (Col) 1: *, vs. 90 days (PPPPTuto (PSt (PPPPPTuto (PSt (PTuto: Col 1: ???, vs. 30 days (PPSt: Col 1: ??, vs. Bio-A and Tuto at 14 days (P"
+        ],
+        "rois":[
+          {
+            "x":31,
+            "y":47,
+            "x2":2848,
+            "y2":650
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) and St "
+        ],
+        "rois":[
+          {
+            "x":2914,
+            "y":47,
+            "x2":5295,
+            "y2":650
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) after 14, 30, 90 and 180 days post-implantation. The results are expressed as the mean ?? SEM of three experiments. Gene expression was normalized with the GAPDH gene"
+        ],
+        "rois":[
+          {
+            "x":198,
+            "y":665,
+            "x2":7875,
+            "y2":3113
+          },
+          {
+            "x":5364,
+            "y":39,
+            "x2":7726,
+            "y2":650
+          }
+        ]
+      }
+    }
+  },
+  "191368":{
+    "Figure_8.tif":{
+      "96":{
+        "descriptions":[
+          "(E-H) and St (I???L). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean ?? SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: ??, vs. 30 days (PPPPSt: ??, vs. 90 days (PPTuto (PTuto (PTuto (P"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "07":{
+        "descriptions":[
+          "(E-H) and St (I???L). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean ?? SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: ??, vs. 30 days (PPPPSt: ??, vs. 90 days (PPTuto (PTuto (PTuto (P"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "17":{
+        "descriptions":[
+          "(E-H) and St (I???L). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean ?? SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: ??, vs. 30 days (PPPPSt: ??, vs. 90 days (PPTuto (PTuto (PTuto (P"
+        ],
+        "rois":[
+          {
+            "x":15,
+            "y":15,
+            "x2":1233,
+            "y2":853
+          }
+        ]
+      },
+      "27":{
+        "descriptions":[
+          "(E-H) and St (I???L). Percentage of positive cells for the RAM-11 antibody in the different prostheses after 14, 30, 90 and 180 days post-implantation (bottom panel). The results were expressed as the mean ?? SEM. A) Bio-A: *, vs. 14 days and 90 days (PPSt (PTuto and St (PTuto and St (PTuto and St (PTuto: ??, vs. 30 days (PPPPSt: ??, vs. 90 days (PPTuto (PTuto (PTuto (P"
+        ],
+        "rois":[
+          {
+            "x":40,
+            "y":15,
+            "x2":2164,
+            "y2":2257
+          },
+          {
+            "x":1248,
+            "y":1565,
+            "x2":2164,
+            "y2":2257
+          },
+          {
+            "x":467,
+            "y":2404,
+            "x2":3849,
+            "y2":3428
+          },
+          {
+            "x":2183,
+            "y":15,
+            "x2":4032,
+            "y2":2257
+          }
+        ]
+      }
+    }
+  },
+  "191545":{
+    
+  },
+  "191580":{
+    "Figure_2.tif":{
+      "E":{
+        "descriptions":[
+          ". Caspase-3 activity were determined using the specific substrate Ac-DEVDPNA; HepG2 cells were treated with 10 ??M ABT-737, 1.25 ??M Celastrol and the combination for 24 h. E"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2372,
+            "y2":3207
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          ". Bel-7402 and HepG2 cells were stained with JC-1, then observed by Leica DMI 400B Xuorescence microscope; F"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2372,
+            "y2":3207
+          }
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "A"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2372,
+            "y2":3207
+          }
+        ]
+      },
+      "G":{
+        "descriptions":[
+          ". protein levels of Bax, Bcl-2, Bcl-xL and Mcl-1 in HepG2 and Bel-7402 cells were detected by western blotting analysis. The density of the protein band was determined by using Bio-Rad Quantity One imaging software; G"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2372,
+            "y2":3207
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". Cells were treated with 10 ??M ABT-737, 1.25 ??M Celastrol and the combination for 24, 48, 72 hours and apoptosis was tested by propidium iodide staining of lysed cell nuclei, analyzed by Flow Cytometry. B"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2372,
+            "y2":3207
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          ". After treatment 10 ??M ABT-737, 1.25 ??M Celastrol and the combination for 72 hours, cells were stained with DAPI and observed by Leica DMI 400B Xuorescence microscope. Cells were treated with 10 ??M ABT-737, 1.25 ??M Celastrol and the combination for 24 h; C"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2372,
+            "y2":3207
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          ". lysates were harvested and immunobloted with caspase-3, cleaved caspase-3 and PARP antibodies; D"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2372,
+            "y2":3207
+          }
+        ]
+      }
+    }
+  },
+  "191769":{
+    "Figure_4.tif":{
+      "E":{
+        "descriptions":[
+          ". The ratios of cleaved-PARP/Actin. The density of the protein band was determined by using Bio-Rad Quantity One imaging software. E"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2273,
+            "y2":2159
+          }
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "HepG2 cells were transfected with NOXA siRNA according to manufacturer???s recommendations. Forty-eight hours after transfection, cells were treated with10 ??M ABT-737, 1.25 ??M Celastrol and the combination for 48 h. A"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2273,
+            "y2":2159
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". Lysates were harvested and immunobloted with NOXA antibody. B"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2273,
+            "y2":2159
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          ". Lysates were harvested and immunobloted with cleaved caspase-3 and PARP antibodies. C"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2273,
+            "y2":2159
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          ". The ratios of cleaved-caspase 3/??-Actin. D"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2273,
+            "y2":2159
+          }
+        ]
+      }
+    }
+  },
+  "199743":{
+    
+  },
+  "2015607":{
+    
+  },
+  "2015613":{
+    
+  },
+  "2015619":{
+    
+  },
+  "2022090":{
+    
+  },
+  "202939":{
+    "Figure_1.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Daily changes in GSH levels in wild type CS males. Data represents average values ?? SEM obtained from 4 independent bio-replicates (total N???=???8). Data were analyzed by a 1-way ANOVA and Bonferroni's post-tests where an asterisk marks significantly lower values relative to ZT 0 (pper01 and cyc01 mutants such that no statistical difference was detected between time points where control CS flies showed a peak (ZT 0) and a trough (ZT 8). Bars represent average values ?? SEM obtained from 3???4 independent bio-replicates (?? SEM). Data in "
+        ],
+        "rois":[
+          {
+            "x":14,
+            "y":924,
+            "x2":1507,
+            "y2":1770
+          },
+          {
+            "x":13,
+            "y":13,
+            "x2":1163,
+            "y2":848
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) were analyzed by a 2-way ANOVA and Bonferroni's post-tests. Different subscript letters indicate significant difference between treatment groups. ZT???=???Zeitgeber Time."
+        ],
+        "rois":[
+          {
+            "x":14,
+            "y":924,
+            "x2":1507,
+            "y2":1770
+          }
+        ]
+      }
+    }
+  },
+  "202994":{
+    "Figure_4.tif":{
+      "a":{
+        "descriptions":[
+          "(a) The non-functionalized micro-fabricated Si force sensor with a flat probe and with known force-deflection relation is manipulated by a high-resolution x-y-z Piezo-stage to contact cell islands' lateral convex surface (on x-y plane). "
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":96,
+            "x2":683,
+            "y2":538
+          }
+        ]
+      },
+      "b":{
+        "descriptions":[
+          "(b) Confocal microscopy of cell islands show the height of islands is on the order of 30???50 ??m. The vertical height of bio-MEMS probe is 5???10 ??m. "
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":626,
+            "x2":721,
+            "y2":1101
+          },
+          {
+            "x":667,
+            "y":7,
+            "x2":1824,
+            "y2":604
+          }
+        ]
+      },
+      "c":{
+        "descriptions":[
+          "(c) After a 2-minute contact, force sensor is horizontally pulled away at a constant speed of 2.1??0.4 ??m/s. While the cell adhesion between the probe and cell surface hinders retraction of the sensor, the sensor beams deform by ??, giving the force F. Note that the probe is not functionalized. The 2-minute contact between the probe and cells prevents the activation of cell integrins and the formation of any cell focal adhesion, which takes >30 minutes to form."
+        ],
+        "rois":[
+          {
+            "x":769,
+            "y":636,
+            "x2":1963,
+            "y2":1101
+          }
+        ]
+      }
+    }
+  },
+  "203045":{
+    "Figure_2.tif":{
+      "E":{
+        "descriptions":[
+          "(E) is abolished while GS mRNA is not affected "
+        ],
+        "rois":[
+          {
+            "x":1457,
+            "y":1190,
+            "x2":1991,
+            "y2":1656
+          },
+          {
+            "x":864,
+            "y":1168,
+            "x2":1415,
+            "y2":1656
+          },
+          {
+            "x":871,
+            "y":7,
+            "x2":1438,
+            "y2":537
+          },
+          {
+            "x":11,
+            "y":620,
+            "x2":846,
+            "y2":1110
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          "(F). In per01 mutants, the trough-to-peak differences in Gclc "
+        ],
+        "rois":[
+          {
+            "x":864,
+            "y":1168,
+            "x2":1415,
+            "y2":1656
+          },
+          {
+            "x":9,
+            "y":1174,
+            "x2":843,
+            "y2":1666
+          },
+          {
+            "x":871,
+            "y":7,
+            "x2":1438,
+            "y2":537
+          }
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "(A) and Gclm "
+        ],
+        "rois":[
+          {
+            "x":864,
+            "y":1168,
+            "x2":1415,
+            "y2":1656
+          },
+          {
+            "x":8,
+            "y":28,
+            "x2":848,
+            "y2":551
+          },
+          {
+            "x":1465,
+            "y":17,
+            "x2":2000,
+            "y2":535
+          }
+        ]
+      },
+      "I":{
+        "descriptions":[
+          "(I). Different subscript letters in (D???I) indicate a significant difference between treatment groups. All graphs are average values obtained from 3???5 independent bio-replicates (?? SEM) and normalized to ZT 0 or ZT 4 as appropriate."
+        ],
+        "rois":[
+          
+        ]
+      },
+      "G":{
+        "descriptions":[
+          "(G) and Gclm "
+        ],
+        "rois":[
+          {
+            "x":9,
+            "y":1174,
+            "x2":843,
+            "y2":1666
+          },
+          {
+            "x":871,
+            "y":7,
+            "x2":1438,
+            "y2":537
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) mRNA but not in GS mRNA profile "
+        ],
+        "rois":[
+          {
+            "x":864,
+            "y":1168,
+            "x2":1415,
+            "y2":1656
+          },
+          {
+            "x":1457,
+            "y":578,
+            "x2":1998,
+            "y2":1101
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C). Data for (A???C) were analyzed by a 1-way ANOVA and Bonferroni's post-tests, and an asterisk marks significantly higher values relative to the lowest value (pcyc01 mutants, the peak in Gclc "
+        ],
+        "rois":[
+          {
+            "x":1457,
+            "y":1190,
+            "x2":1991,
+            "y2":1656
+          },
+          {
+            "x":864,
+            "y":1168,
+            "x2":1415,
+            "y2":1656
+          },
+          {
+            "x":9,
+            "y":1174,
+            "x2":843,
+            "y2":1666
+          }
+        ]
+      },
+      "H":{
+        "descriptions":[
+          "(H) are abolished while GS is not changed "
+        ],
+        "rois":[
+          {
+            "x":864,
+            "y":607,
+            "x2":1435,
+            "y2":1101
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D) and Gclm "
+        ],
+        "rois":[
+          {
+            "x":1457,
+            "y":1190,
+            "x2":1991,
+            "y2":1656
+          },
+          {
+            "x":864,
+            "y":1168,
+            "x2":1415,
+            "y2":1656
+          },
+          {
+            "x":8,
+            "y":28,
+            "x2":848,
+            "y2":551
+          }
+        ]
+      }
+    }
+  },
+  "203085":{
+    
+  },
+  "203153":{
+    "Figure_3.tif":{
+      "A":{
+        "descriptions":[
+          "(A) total Gclc mRNA levels were also significant when "
+        ],
+        "rois":[
+          {
+            "x":8,
+            "y":8,
+            "x2":998,
+            "y2":618
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Gclc-RA and "
+        ],
+        "rois":[
+          {
+            "x":12,
+            "y":691,
+            "x2":998,
+            "y2":1301
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Gclc-RB isoforms were measured separately using isoform-specific primers. The two isoforms share the same coding regions, but have distinct 5??? UTR regions. All graphs are average values obtained from 3 independent bio-repeats each normalized to the time point with the lowest expression. An asterisk indicates significant difference from the trough based on a 1-way ANOVA and Bonferroni's post-tests (p"
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":1382,
+            "x2":998,
+            "y2":2055
+          }
+        ]
+      }
+    }
+  },
+  "203187":{
+    
+  },
+  "203234":{
+    "Figure_4.tif":{
+      "A":{
+        "descriptions":[
+          "(A) tim and "
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":9,
+            "x2":1193,
+            "y2":753
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Gclm mRNA expression show a circadian rhythm in heads of CS flies on the second day of constant darkness. An asterisk indicates a significant difference in the expression level between the trough of each gene and the peak (pGclc mRNA levels in wild type flies. Data represents average values obtained from 3 independent bio-replicates (?? SEM) and normalized to ZT 0. Significance was calculated by a 1-way ANOVA and Bonferroni's multiple comparison post-tests. CT???=???Circadian Time. Shaded horizontal bars indicate subjective day."
+        ],
+        "rois":[
+          {
+            "x":12,
+            "y":774,
+            "x2":1196,
+            "y2":2397
+          }
+        ]
+      }
+    }
+  },
+  "2032818":{
+    
+  },
+  "203322":{
+    "Figure_5.tif":{
+      "A":{
+        "descriptions":[
+          "(A) GCLm and "
+        ],
+        "rois":[
+          {
+            "x":9,
+            "y":8,
+            "x2":1113,
+            "y2":736
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) GCLc protein levels based on average densitometry of signals obtained on Western blots with anti-GCLc or anti-GCLm antibodies normalized to signals obtained with anti-actin antibodies. Each replicate was normalized to the time point with the lowest expression. "
+        ],
+        "rois":[
+          {
+            "x":15,
+            "y":809,
+            "x2":1113,
+            "y2":1542
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Ratio of GCLc to GCLm protein over the circadian day in wild type CS males. (A???C) Data represent average values ?? SEM obtained from 8 immunoblots performed with 4 independent bio-replicates. Statistical significance was determined by a 1-way ANOVA and Dunnett's post-test as denoted by asterisks (p"
+        ],
+        "rois":[
+          {
+            "x":11,
+            "y":1592,
+            "x2":1109,
+            "y2":2420
+          }
+        ]
+      }
+    }
+  },
+  "203427":{
+    "Figure_6.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Daily profile of GCL activity in heads of CS flies as measured by the formation of the GCL product, ??-GC. Data represents average values ?? SEM obtained from 4 independent bio-replicates (total N???=???16). An asterisk indicates a significant difference between the peak and trough time points calculated by 1-way ANOVA and Bonferroni post-tests. "
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":8,
+            "x2":930,
+            "y2":644
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) GCL activity was altered in per01 and cyc01 mutants such that no statistical difference was detected between time points where control CS flies showed peak at (ZT 0) and trough (ZT 8). Bars show average values ?? SEM obtained from 4???5 independent bio-replicates (total N???=???16). Data in ",
+          "(B) are analyzed by 2-way ANOVA and Bonferroni's post-tests. Different subscript letters indicate significant differences between treatment groups (p"
+        ],
+        "rois":[
+          {
+            "x":8,
+            "y":726,
+            "x2":1130,
+            "y2":1312
+          }
+        ]
+      }
+    }
+  },
+  "203505":{
+    "Figure_7.tif":{
+      "A":{
+        "descriptions":[
+          "(A) A circadian rhythm in GstD1 mRNA levels was detected in wild type "
+        ],
+        "rois":[
+          {
+            "x":29,
+            "y":12,
+            "x2":1550,
+            "y2":1092
+          }
+        ]
+      },
+      "CS":{
+        "descriptions":[
+          "(CS) flies with a peak at ZT 8 significantly different from the trough at ZT 20 (pper01 and cyc01 flies while the difference was observed in CS heads (p"
+        ],
+        "rois":[
+          {
+            "x":12,
+            "y":1141,
+            "x2":1552,
+            "y2":2177
+          }
+        ]
+      }
+    }
+  },
+  "203983":{
+    
+  },
+  "205583":{
+    "Figure_1.tif":{
+      "A":{
+        "descriptions":[
+          "(A). Analysis of ADAADiK on silica 60A plate by TLC after purification using Bio-Rex 70 followed by G-15 desalting column. Kanamycin (lanes 1-6), ADAADiK (lanes 7???9), and phosphokanamycin (lanes 18???19) migrate with different mobilities and thus can be separated on these plates. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2058,
+            "y2":1432
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B). Inhibition profile of fractions eluted from G-15 column. "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C). Purification of ADAAD using TSK gel SP-5PW column. The ninhydrin sensitive spots (fractions 15???20) correspond to phosphokanamycin and kanamycin, while the ADAADiK concentration (fractions 9???14) is too low to be detected by ninhydrin. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2058,
+            "y2":1432
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D). Inhibition profile of fractions eluted from SP column."
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2058,
+            "y2":1432
+          }
+        ]
+      }
+    }
+  },
+  "2063853":{
+    
+  },
+  "207641":{
+    "Figure_9.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Bio-function analysis and comparison; "
+        ],
+        "rois":[
+          {
+            "x":6,
+            "y":7,
+            "x2":2058,
+            "y2":157
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Tox-function analysis and comparison."
+        ],
+        "rois":[
+          {
+            "x":4,
+            "y":194,
+            "x2":2058,
+            "y2":332
+          }
+        ]
+      }
+    }
+  },
+  "207745":{
+    "Figure_10.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Bio-function analysis; "
+        ],
+        "rois":[
+          {
+            "x":15,
+            "y":18,
+            "x2":1752,
+            "y2":5026
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Tox-function analysis."
+        ],
+        "rois":[
+          {
+            "x":2221,
+            "y":18,
+            "x2":3950,
+            "y2":4215
+          }
+        ]
+      }
+    }
+  },
+  "2081416":{
+    
+  },
+  "208653":{
+    "Figure_3.tif":{
+      "CA":{
+        "descriptions":[
+          "Human lung slices were exposed to 6??106 PFU/ml of PR8 or OK/09 for 4 h, 8 h, 12 h, 16 h, 24 h, and 32 h. Total RNA was then isolated from lung slices. Quantitative RT-PCR was performed using 100 ng sample RNA and SYBR Green (Quanta Biosciences) in a BIO-RAD iCycler IQ instrument (Hercules, CA)"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "A":{
+        "descriptions":[
+          ". Transcript levels of RIG-1 (A)"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "B":{
+        "descriptions":[
+          " and IFN-?? (B)"
+        ],
+        "rois":[
+          {
+            "x":15,
+            "y":15,
+            "x2":1892,
+            "y2":1967
+          }
+        ]
+      }
+    }
+  },
+  "209598":{
+    
+  },
+  "209695":{
+    "Figure_2.tif":{
+      "6":{
+        "descriptions":[
+          ", 6.48 and 5.9 respectively); the curves represent a quadratic link between mean and variance ( with ???=???4.4"
+        ],
+        "rois":[
+          {
+            "x":10,
+            "y":9,
+            "x2":2362,
+            "y2":2320
+          },
+          {
+            "x":11,
+            "y":9,
+            "x2":1105,
+            "y2":1062
+          }
+        ]
+      },
+      "8":{
+        "descriptions":[
+          ", 8.9 and 1.1 respectively)."
+        ],
+        "rois":[
+          {
+            "x":1268,
+            "y":1264,
+            "x2":2362,
+            "y2":2331
+          }
+        ]
+      }
+    }
+  },
+  "209820":{
+    
+  },
+  "209940":{
+    
+  },
+  "211357":{
+    
+  },
+  "211577":{
+    
+  },
+  "211668":{
+    
+  },
+  "213686":{
+    
+  },
+  "215448":{
+    "Figure_2.tif":{
+      "E":{
+        "descriptions":[
+          "E. coli and P. aeruginosa both contain bioH but P. aeruginosa has bioH within its bio operon upstream of bioC whereas the E. coli bioH is located elsewhere on the chromosome"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2346,
+            "y2":1217
+          },
+          {
+            "x":0,
+            "y":1218,
+            "x2":2346,
+            "y2":1476
+          }
+        ]
+      },
+      "H":{
+        "descriptions":[
+          ". H. influenzae and C. jejuni have bioG within their bio operons upstream of bioC"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":1218,
+            "x2":2346,
+            "y2":1476
+          },
+          {
+            "x":0,
+            "y":1477,
+            "x2":2346,
+            "y2":1854
+          }
+        ]
+      },
+      "N":{
+        "descriptions":[
+          ". N. meningitidis has both bioH and bioG upstream of separate copies of bioC"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". B. fragilis encodes a fusion of BioC and BioG. In place of BioG or BioH, most BioC-containing cyanobacteria carrying, such as Synechococcus spp. and P. marinus, have bioK upstream of bioC."
+        ],
+        "rois":[
+          
+        ]
+      }
+    }
+  },
+  "215651":{
+    "Figure_4.tif":{
+      "E":{
+        "descriptions":[
+          "E. coli strain STL24 (??bioH) was transformed with derivative of pBAD322 carrying various bioG or bioK genes. The transformants were streaked on M9 agar plates in the pattern shown on the plate diagram containing the carbon source shown in either the presence or absence of biotin (bio). All plates were incubated at 37??C except those expressing P. marinus bioK which were incubated at 25??C. To prevent cross-feeding plates divided into three zones by plastic walls were used"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "A":{
+        "descriptions":[
+          ". Panel A. Arabinose as carbon source, STL24 ??bioH transformed with pBAD322 carrying no insert (lower left third), expressing bioG or bioK (top third of each plate) and the wild type strain transformed with pBAD322 (lower right of each plate)"
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":8,
+            "x2":478,
+            "y2":786
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". Panel B. The inoculation pattern was the same as Panel A and glycerol was the carbon source in place of arabinose"
+        ],
+        "rois":[
+          {
+            "x":9,
+            "y":900,
+            "x2":455,
+            "y2":1312
+          },
+          {
+            "x":523,
+            "y":8,
+            "x2":869,
+            "y2":429
+          },
+          {
+            "x":545,
+            "y":449,
+            "x2":875,
+            "y2":828
+          },
+          {
+            "x":882,
+            "y":425,
+            "x2":1702,
+            "y2":1305
+          },
+          {
+            "x":908,
+            "y":8,
+            "x2":1239,
+            "y2":429
+          },
+          {
+            "x":1293,
+            "y":9,
+            "x2":1612,
+            "y2":410
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          ". Panel C. The streaking pattern is given by the plate diagram. Arabinose was the carbon source and the test strain was E. coli strain STL25 (??bioC??bioH) transformed with pBAD322 carrying no insert (lower left third), bioGC (top third) or the wild type strain transformed with the vector pBAD322 (lower right third)."
+        ],
+        "rois":[
+          {
+            "x":483,
+            "y":906,
+            "x2":804,
+            "y2":1311
+          },
+          {
+            "x":1359,
+            "y":940,
+            "x2":1668,
+            "y2":1240
+          }
+        ]
+      }
+    }
+  },
+  "2161657":{
+    
+  },
+  "217212":{
+    "Figure_1.tif":{
+      "A":{
+        "descriptions":[
+          "A. Structural comparison of biological models (top panels) with bio-inspired vehicles (bottom) used for experimental comparisons (both are 16.4 cm diameter). Only flap versions of the robotic vehicles are shown"
+        ],
+        "rois":[
+          {
+            "x":11,
+            "y":12,
+            "x2":1326,
+            "y2":751
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". B. Comparison of the maximum normalized swimming speeds of jellyfish vehicles with representative values for their natural counterparts, Aurelia aurita (14.7 cm diameter) and Cyanea capillata (10 cm diameter)"
+        ],
+        "rois":[
+          {
+            "x":18,
+            "y":718,
+            "x2":1338,
+            "y2":2001
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          ". C. Comparison of the normalized swimming speed averaged over the swimming cycle. The Reynolds numbers (Re) shown are averages over 3 swimming cycles. We examined a flap and a no-flap version of both the A. aurita and C. capillata vehicle models (icons illustrate each version). Bars are the mean values over 3 consecutive swimming cycles (?? st.dev.)"
+        ],
+        "rois":[
+          {
+            "x":18,
+            "y":718,
+            "x2":1338,
+            "y2":2001
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          ". D. Bell kinematics at of no-flap and flap vehicles and live Aurelia during bell contraction. Scale represents 1 cm."
+        ],
+        "rois":[
+          {
+            "x":24,
+            "y":2037,
+            "x2":1296,
+            "y2":2662
+          }
+        ]
+      }
+    }
+  },
+  "219800":{
+    "Figure_1.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Sepharcyl S100 ??KTA FPLC of purified hep-ATIII. A 9???14 ml fraction was separated, termed as hep-ATIII and used for our experiments. Detection at 260 nm for protein detection and 280 nm for heparin detection is shown. "
+        ],
+        "rois":[
+          {
+            "x":15,
+            "y":27,
+            "x2":2073,
+            "y2":2335
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Hep-ATIII purity and molecular weight were also determined by SDS-PAGE and silver staining (Bio-Rad kit) of a 15% slab gel. For molecular weight determination a low-range protein molecular weight marker (Bio-Rad) was used. Lane 1???2 ??g hep-ATIII; lane 2: phosphorylase B (97 kDa), serum albumin (69 kDa), carbonic anhydrase (31 kDa), trypsin inhibitor (21.5 kDa), aprotinin (6.5 kDa)."
+        ],
+        "rois":[
+          {
+            "x":2393,
+            "y":13,
+            "x2":3426,
+            "y2":1556
+          }
+        ]
+      }
+    }
+  },
+  "220987":{
+    
+  },
+  "221879":{
+    "Figure_5.tif":{
+      "A":{
+        "descriptions":[
+          "(A) female gill and "
+        ],
+        "rois":[
+          {
+            "x":12,
+            "y":12,
+            "x2":1695,
+            "y2":677
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) penis from a threshold of 10???8 M. No activity on "
+        ],
+        "rois":[
+          {
+            "x":19,
+            "y":750,
+            "x2":1892,
+            "y2":1225
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) rectum. ??3-induced contraction on "
+        ],
+        "rois":[
+          {
+            "x":16,
+            "y":1368,
+            "x2":1866,
+            "y2":2667
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D) penis from a threshold of 10???9 M."
+        ],
+        "rois":[
+          
+        ]
+      }
+    }
+  },
+  "224708":{
+    
+  },
+  "226917":{
+    
+  },
+  "229196":{
+    "Figure_2.tif":{
+      "A":{
+        "descriptions":[
+          "Panel A: 10???20% SDS-PAGE gel stained with Bio-Safe Coomassie. Lane 1, molecular mass markers; lane 2, 10 ??g Pdu MCPs purified from wild-type Salmonella; lane 3, 10 ??g Pdu MCPs purified from a pduQ deletion mutant BE903"
+        ],
+        "rois":[
+          {
+            "x":15,
+            "y":15,
+            "x2":1682,
+            "y2":1808
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". Panel B: Western blot with antisera against PduQ peptide (51???64). Lane 1, 10 ??g Pdu MCPs purified from wild-type Salmonella; lane 2, 10 ??g Pdu MCPs purified from ??pduQ mutant BE903."
+        ],
+        "rois":[
+          
+        ]
+      }
+    }
+  },
+  "231455":{
+    "Figure_8.tif":{
+      "E":{
+        "descriptions":[
+          "(E) STMN1 protein level in miR-101 mimics or inhibitor-treated T47D cells was detected by western blot. The bands were analyzed using the Quantity One analyzing system (Bio-Rad Laboratory inc.). The expression of ??-ACTIN served as an internal control. The black histogram represents the optical densities of the signals quantified by densitometric analysis and represented as STMN1 intensity/??-ACTIN intensity to normalize for gel loading and transfer. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":555,
+            "x2":2223,
+            "y2":2395
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          "(F) The expression of Stmn1 mRNA in miR-101 mimics and inhibitor-treated T47D cells were detected by qRT-PCR. ??-actin serves as an internal reference among different samples and helps normalize for experimental error. The y-axis displays the relative log2 ratio of Stmn1 normalized by ??-actin. *PP"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":555,
+            "x2":2223,
+            "y2":2395
+          }
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "(A) MiR-101 binding sites in the 3???-UTR region of Stmn1 in cross-species. "
+        ],
+        "rois":[
+          {
+            "x":800,
+            "y":262,
+            "x2":1165,
+            "y2":554
+          },
+          {
+            "x":1166,
+            "y":0,
+            "x2":2223,
+            "y2":554
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Schematic diagram for constructing the miR-101 binding site into pGL3 control vector. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1165,
+            "y2":554
+          },
+          {
+            "x":800,
+            "y":262,
+            "x2":1165,
+            "y2":554
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Confirmation of the target gene of miR-101. T47D cells were co-transfected with pre-miR control, miR-101 mimics, anti-miR control or miR-101 inhibitor and Stmn1-pGL3 for dual-luciferase assay. PRL-TK containing Renilla luciferase was co-transfected with 3???-UTR of Stmn1 for data normalization. "
+        ],
+        "rois":[
+          {
+            "x":800,
+            "y":262,
+            "x2":1165,
+            "y2":554
+          },
+          {
+            "x":0,
+            "y":555,
+            "x2":2223,
+            "y2":2395
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D) Mutation analysis of the miR-101 binding site. When the binding site of miR-101 in the 3???-UTR of Stmn1 was completely deleted (Stmn1-pGL3-Mutant), the luciferase activity was significantly decreased in T47D cells co-transfected with miR-101 mimics and Stmn1-pGL3 compared with Stmn1-pGL3-Mutant or pGL3. "
+        ],
+        "rois":[
+          {
+            "x":800,
+            "y":262,
+            "x2":1165,
+            "y2":554
+          },
+          {
+            "x":0,
+            "y":555,
+            "x2":2223,
+            "y2":2395
+          }
+        ]
+      }
+    }
+  },
+  "231560":{
+    "Figure_9.tif":{
+      "A":{
+        "descriptions":[
+          "(A) The protein level of STMN1 in human breast cancer tissues was detected by western blot. The bands were analyzed using the Quantity One analyzing system (Bio-Rad Laboratory inc.). The expression of ??-ACTIN served as an internal control. The black histograms represent the expression level of STMN1 in breast cancer tissues of all (A1), ER/PR???,HER2???(A2), ER/PR+, HER2+ (A3), ER/PR+, HER2??? (A4) and ER/PR???,HER2+(A5) and expressed as STMN1 intensity/??-ACTIN intensity to normalize for gel loading and transfer. N represents non-tumor tissues, and T represents tumor tissues. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2229,
+            "y2":1720
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) The mRNA level of Stmn1 in human breast cancer tissues and adjacent normal breast tissues was detected by qRT-PCR. The expression level of Stmn1 was obviously increased in 83.33% individual sample. Statistical analyses were performed to analyze the overall trend of Stmn1 in human breast cancer tissues of all (B1), ER/PR???,HER2??? (B2), ER/PR+, HER2+ (B3), ER/PR+, HER2??? (B4) and ER/PR???, HER2+ (B5). ??-actin serves as an internal reference. The y-axis displays the relative log2 ratio of Stmn1 normalized to ??-actin. *PP"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":2229,
+            "y2":1720
+          },
+          {
+            "x":0,
+            "y":1721,
+            "x2":2229,
+            "y2":2367
+          }
+        ]
+      }
+    }
+  },
+  "233228":{
+    "Figure_4.tif":{
+      "E":{
+        "descriptions":[
+          "(C,E) This strain panel was plated on Pseudomonas Isolation Agar (PIA) and "
+        ],
+        "rois":[
+          {
+            "x":15,
+            "y":1454,
+            "x2":787,
+            "y2":1873
+          }
+        ]
+      },
+      "F":{
+        "descriptions":[
+          "(D,F) LB and incubated at 37??C for 2 days. Bioluminescence was detected in Bio-Rad XRS Chemidoc Imaging system. The colonies are depicted using epi white illumination (left panel) and corresponding exoS-lux expression using bioluminescence imaging (lower panel). Each experiment was performed at least three times and representative values and images are shown."
+        ],
+        "rois":[
+          
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "(A) Mucoid (FRD1, PAO1mucA22) and non-mucoid (FRD2, PAO1) P. aeruginosa strains encoding a chromosomal exoS-lux fusion as a reporter for the T3SS were grown in LB and "
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":7,
+            "x2":837,
+            "y2":561
+          },
+          {
+            "x":809,
+            "y":608,
+            "x2":1585,
+            "y2":2306
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) BM2 (0.5 mM Mg2+, 0.2 mM Ca2+) planktonic cultures. Gene expression was measured every 20 minutes for 18 hours and the maximal gene expression is shown. The values shown are the means from experiments done in triplicate and the error bars represent the standard deviation. All values from mucoid strains (FRD1, mucA22) differ significantly (pt-test) from the corresponding non-mucoid controls (FRD2, PAO1). "
+        ],
+        "rois":[
+          {
+            "x":802,
+            "y":7,
+            "x2":1580,
+            "y2":566
+          },
+          {
+            "x":17,
+            "y":1893,
+            "x2":785,
+            "y2":2306
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C,E) This strain panel was plated on Pseudomonas Isolation Agar (PIA) and "
+        ],
+        "rois":[
+          {
+            "x":13,
+            "y":609,
+            "x2":789,
+            "y2":1017
+          },
+          {
+            "x":17,
+            "y":1893,
+            "x2":785,
+            "y2":2306
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          "(D,F) LB and incubated at 37??C for 2 days. Bioluminescence was detected in Bio-Rad XRS Chemidoc Imaging system. The colonies are depicted using epi white illumination (left panel) and corresponding exoS-lux expression using bioluminescence imaging (lower panel). Each experiment was performed at least three times and representative values and images are shown."
+        ],
+        "rois":[
+          {
+            "x":17,
+            "y":1893,
+            "x2":785,
+            "y2":2306
+          },
+          {
+            "x":10,
+            "y":1032,
+            "x2":789,
+            "y2":1438
+          }
+        ]
+      }
+    }
+  },
+  "233557":{
+    "Figure_7.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Copper "
+        ],
+        "rois":[
+          {
+            "x":29,
+            "y":28,
+            "x2":585,
+            "y2":1156
+          }
+        ]
+      },
+      "I":{
+        "descriptions":[
+          "(I)-catalyzed cycloaddition (CCCA) reaction between azide and alkyne incorporated to GFPhs-r5M resulted in the formation of triazole-linked protein-protein dimer bio-conjugation. "
+        ],
+        "rois":[
+          {
+            "x":38,
+            "y":1575,
+            "x2":1455,
+            "y2":2333
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) SDS-PAGE analysis of CCCA reaction between GFPhs-r5M proteins incorporated with Hpg (alkyne) and Aha (azide group). Lane 1: CCCA reaction without catalysis agents, CuSO4 and L-ascorbic acid; lane 2: CCCA reaction with catalysis agents, CuSO4 and L-ascorbic acid. This result shows the formation of triazole-linked protein-protein bio-conjugation of GFPhs-r5M dimer. M is molecular weight marker, thick arrow indicates the protein-protein conjugated GFPhs-r5M dimer of 55.2 kDa and grey arrow indicates the 27.6 kDa monomer of GFPhs-r5M containing Hpg and Aha respectively."
+        ],
+        "rois":[
+          {
+            "x":1432,
+            "y":29,
+            "x2":2729,
+            "y2":2411
+          },
+          {
+            "x":23,
+            "y":1116,
+            "x2":1389,
+            "y2":1549
+          },
+          {
+            "x":704,
+            "y":343,
+            "x2":1447,
+            "y2":1120
+          }
+        ]
+      }
+    }
+  },
+  "233722":{
+    "Figure_2.tif":{
+      "A":{
+        "descriptions":[
+          "(A)",
+          " HEK293 reporter cells were incubated with CGK062 in the presence of 0.75 ??M BIO. In (A)"
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":244,
+            "y2":801
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          " HEK293 reporter cells were incubated with CGK062 in the presence of 20 mM LiCl. (B)",
+          " and (B)"
+        ],
+        "rois":[
+          {
+            "x":245,
+            "y":0,
+            "x2":2012,
+            "y2":801
+          },
+          {
+            "x":0,
+            "y":802,
+            "x2":2012,
+            "y2":1918
+          }
+        ]
+      },
+      "P":{
+        "descriptions":[
+          ", after 15 h, luciferase activities were determined and reported as relative light unit (RLU) normalized to cell titer. The results are the average of three experiments, and the bars indicate standard deviations. *, P"
+        ],
+        "rois":[
+          
+        ]
+      }
+    }
+  },
+  "234722":{
+    
+  },
+  "237308":{
+    
+  },
+  "237748":{
+    "Figure_1.tif":{
+      "A":{
+        "descriptions":[
+          "(A) 5??? 32P-labelled CopT RNA was incubated for 2 min at 37??C in the presence of Kid or CcdB prior to separation on 8% polyacrylamide gels in the presence of urea. Tracks: 1, C???, untreated full-length ",
+          "(A): Total RNA (uncleaved and cleaved products) was calculated for each track scanning the different bands using the Quantity One?? program (Bio-Rad). RNase activity was calculated as the percentage of full length RNA substrate. The average value for each condition was calculated from three independent experiments. The 100% value indicates absence of RNase activity. The standard deviation is indicated above the different bars. A Student's t-test indicated that the differences between values in lanes 2 and 3, linked with a bracket, were significant (p-value???=???0.0067). ** Represents a p-value???0.01."
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":7,
+            "x2":1038,
+            "y2":1139
+          }
+        ]
+      },
+      "FL":{
+        "descriptions":[
+          "(FL) RNA; 2, RNA treated with 0.2 ??M Kid; 3, RNA treated with 0.2 ??M Kid and 0.2 ??M Kis; 4, RNA treated with 0.2 ??M Kid and 0.2 ??M CcdA; 5, RNA treated with 0.2 ??M CcdA; 6, RNA treated with 0.2 ??M CcdB; 7, RNA treated with 0.2 ??M CcdA and 0.2 ??M CcdB; 8, RNA treated with 0.2 ??M Kid and 1.5 ??M BSA; 9, RNA treated with 0.2 ??M Kid and 0.2 ??M CcdB. "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) Bar graph representation and quantitative analysis of data in "
+        ],
+        "rois":[
+          {
+            "x":1032,
+            "y":237,
+            "x2":2020,
+            "y2":1169
+          }
+        ]
+      }
+    }
+  },
+  "237799":{
+    "Figure_8.tif":{
+      "E":{
+        "descriptions":[
+          ", FYJ105 (??fadR), FYJ133 (??arcA), FYJ134 (??crp), FYJ141 (??arcA ??fadR), FYJ142 (??crp ??fadR), FYJ169 (??crp ??arcA), and FYJ170 (??crp ??arcA ??fadR), respectively. E"
+        ],
+        "rois":[
+          {
+            "x":8,
+            "y":1954,
+            "x2":1319,
+            "y2":2689
+          }
+        ]
+      },
+      "A":{
+        "descriptions":[
+          "A"
+        ],
+        "rois":[
+          {
+            "x":8,
+            "y":8,
+            "x2":1179,
+            "y2":806
+          }
+        ]
+      },
+      "WT":{
+        "descriptions":[
+          ". Modulation of LacZ activity of the fadBA-lacZ transcriptional fusion by different regulatory proteins under anaerobic conditions. The fadBA-lacZ strains were SI203 (WT)",
+          ". Transcriptional control of the fadH-lacZ fusion by different regulatory proteins under anaerobic conditions. The fadH-lacZ fusion strains were FYJ55 (WT)",
+          ". Effect on fadL transcriptional levels by different regulatory proteins under anaerobic conditions. The fadL-lacZ were FYJ104 (WT)",
+          ". Regulation of fadD transcription by different regulatory proteins under anaerobic conditions. The fadD-lacZ fusion strains were FYJ159 (WT)"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "B":{
+        "descriptions":[
+          ". Alignments of the ArcA-P binding sites of with those of other fad regulon genes. Red background indicates strictly conserved bases whereas yellow background denotes less conserved bases. B"
+        ],
+        "rois":[
+          {
+            "x":8,
+            "y":8,
+            "x2":1179,
+            "y2":806
+          }
+        ]
+      },
+      "P":{
+        "descriptions":[
+          ", FYJ161 (??fadR), FYJ162 (??arcA), FYJ163 (??crp), FYJ164 (??arcA ??fadR), FYJ165 (??crp ??fadR), FYJ166 (??crp ??arcA), and FYJ167 (??crp ??arcA ??fadR), respectively. The strains were grown on LB agar plates supplemented with 5 mM nitrate (KNO3) as the electron receptor. Anaerobic environments were generated using Bio-Bag environmental chamber type A as described [17]. beta-Galactosidase activities were recorded from at least six independent assays and are expressed as means ?? standard deviations. *, P"
+        ],
+        "rois":[
+          
+        ]
+      },
+      "C":{
+        "descriptions":[
+          ", SI207 (??fadR), FYJ82 (??arcA), FYJ83 (??crp), FYJ84 (??arcA ??fadR), FYJ85 (??crp ??fadR), FYJ86 (??crp ??arcA) and FYJ87 (??crp ??arcA ??fadR), respectively. C"
+        ],
+        "rois":[
+          {
+            "x":7,
+            "y":820,
+            "x2":1178,
+            "y2":1364
+          }
+        ]
+      },
+      "D":{
+        "descriptions":[
+          ", FYJ56 (??fadR), FYJ64 (??arcA), FYJ65 (??crp), FYJ68 (??arcA ??fadR), FYJ81 (??crp ??fadR), FYJ79 (??crp ??arcA) and FYJ80 (??crp ??arcA ??fadR), respectively. D"
+        ],
+        "rois":[
+          {
+            "x":9,
+            "y":1382,
+            "x2":1177,
+            "y2":1932
+          }
+        ]
+      }
+    }
+  },
+  "238677":{
+    "Figure_5.tif":{
+      "a":{
+        "descriptions":[
+          "(a) Dependency network of changes from baseline to the end of the low calorie diet. "
+        ],
+        "rois":[
+          {
+            "x":8,
+            "y":15,
+            "x2":815,
+            "y2":848
+          }
+        ]
+      },
+      "b":{
+        "descriptions":[
+          "(b) Dependency network of changes from baseline to the end of the weight maintenance diet."
+        ],
+        "rois":[
+          {
+            "x":873,
+            "y":7,
+            "x2":1628,
+            "y2":765
+          }
+        ]
+      }
+    }
+  },
+  "2389504":{
+    
+  },
+  "2395216":{
+    
+  },
+  "239831":{
+    "Figure_2.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Measurement of protein phosphorylation in intestinal tissue lysates by Bio-Plex. The heat map is organized such that the columns represent the phospho-signal time courses, while the rows represent the experimental conditions. Different doses, regions, and genotypes are color-coded. Each phospho-signal is arranged sequentially as a function of time (left to right, 0 to 4 h). The intensity of the heat map represents the average of technical duplicates of the median fluorescence intensity (normalized to the highest value of each signal) resulting from each assay. Data are compiled from three independent experiments for each condition. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":4,
+            "x2":2041,
+            "y2":676
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) A three-dimensional PLSDA model constructed using signaling time courses obtained from the different conditions and their correlating apoptotic phenotypes. Each data point represents scores generated by the model, composed of all signaling time courses of a particular experimental condition mapped onto the three-dimensional latent variable space. The three orthogonal latent variable axes separate the scores by apoptotic phenotype: LV1 by the presence or absence of apoptosis, LV2 by the magnitude of apoptosis, and LV3 by the timing of apoptosis. The percentages on the axes represent the percent variance in the dataset captured by a particular LV. "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":4,
+            "x2":2041,
+            "y2":676
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Loadings on LV2, the latent variable that correlates the magnitude of TNF-??-induced apoptosis. The y-axis quantifies the positive or negative contribution of a particular signal to LV2."
+        ],
+        "rois":[
+          {
+            "x":31,
+            "y":639,
+            "x2":2049,
+            "y2":1497
+          }
+        ]
+      }
+    }
+  },
+  "239925":{
+    "Figure_3.tif":{
+      "A":{
+        "descriptions":[
+          "(A) Measurement of cytokine protein levels in intestinal tissue lysates by Bio-Plex. The heat map is organized in a similar manner as Figure 2A. Data are compiled from three independent experiments for each condition. "
+        ],
+        "rois":[
+          {
+            "x":94,
+            "y":651,
+            "x2":1989,
+            "y2":1396
+          }
+        ]
+      },
+      "B":{
+        "descriptions":[
+          "(B) A two-dimensional PLSDA model constructed using early cytokine data (0, 0.5, 1 h) obtained from the different conditions and their correlating apoptotic phenotypes. Each data point represents scores generated by the model, composed of the early time points of all cytokines measured of a particular experimental condition mapped onto the two-dimensional latent variable space. The dotted gray line represents the 95% confidence limit of the distribution of the scores. The two orthogonal latent variable axes separate the scores by apoptotic phenotype: LV1 by the magnitude of apoptosis and LV2 by the timing of apoptosis. The percentages on the axes represent the percent variance in the dataset captured by a particular LV. "
+        ],
+        "rois":[
+          {
+            "x":1,
+            "y":3,
+            "x2":2043,
+            "y2":675
+          }
+        ]
+      },
+      "C":{
+        "descriptions":[
+          "(C) Loadings for the PLSDA model plotted on LV1 and LV2. MCP-1 clusters most significantly with the lowest degree of apoptotic phenotype (low magnitude, late timing)."
+        ],
+        "rois":[
+          {
+            "x":1,
+            "y":3,
+            "x2":2043,
+            "y2":675
+          }
+        ]
+      }
+    }
+  },
+  "240103":{
+    
+  },
+  "240475":{
+    
+  },
+  "241571":{
+    "Figure_6.tif":{
+      "a":{
+        "descriptions":[
+          "(a) free DOX, "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1890,
+            "y2":1448
+          }
+        ]
+      },
+      "b":{
+        "descriptions":[
+          "(b)PEG-hyd-DOX; cumulative accumulation of DOX in "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1890,
+            "y2":1448
+          }
+        ]
+      },
+      "c":{
+        "descriptions":[
+          "(c) tumor and "
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1890,
+            "y2":1448
+          }
+        ]
+      },
+      "d":{
+        "descriptions":[
+          "(d) heart assayed by LC/MS/MS. (n???=???5, mean ?? SD)."
+        ],
+        "rois":[
+          {
+            "x":0,
+            "y":0,
+            "x2":1890,
+            "y2":1448
+          }
+        ]
+      }
+    }
+  },
+  "242827":{
+    "Figure_1.tif":{
+      "e":{
+        "descriptions":[
+          "(d, e, f). In normal glucose conditions ANXA1 protein is highly expressed in WS1 fibroblast cells and accumulates at the plasma membrane and at lamellipodial extrusions (arrows). An increase of glucose levels leads to a reduction of ANXA1 expression and inhibits the relocation of the protein to the plasma membrane ",
+          "(e). The data are representative of 5 experiments with similar results. Bar???=???25 ??m."
+        ],
+        "rois":[
+          {
+            "x":222,
+            "y":565,
+            "x2":733,
+            "y2":991
+          }
+        ]
+      },
+      "f":{
+        "descriptions":[
+          "(d, e, f). In normal glucose conditions ANXA1 protein is highly expressed in WS1 fibroblast cells and accumulates at the plasma membrane and at lamellipodial extrusions (arrows). An increase of glucose levels leads to a reduction of ANXA1 expression and inhibits the relocation of the protein to the plasma membrane "
+        ],
+        "rois":[
+          
+        ]
+      },
+      "F":{
+        "descriptions":[
+          
+        ],
+        "rois":[
+          {
+            "x":49,
+            "y":7,
+            "x2":639,
+            "y2":524
+          },
+          {
+            "x":914,
+            "y":40,
+            "x2":1243,
+            "y2":528
+          },
+          {
+            "x":1363,
+            "y":40,
+            "x2":1982,
+            "y2":991
+          }
+        ]
+      },
+      "a":{
+        "descriptions":[
+          "(a, b, c) and HG conditions "
+        ],
+        "rois":[
+          {
+            "x":769,
+            "y":565,
+            "x2":1331,
+            "y2":982
+          }
+        ]
+      },
+      "b":{
+        "descriptions":[
+          "(a, b, c) and HG conditions "
+        ],
+        "rois":[
+          {
+            "x":50,
+            "y":1076,
+            "x2":1367,
+            "y2":1721
+          }
+        ]
+      },
+      "c":{
+        "descriptions":[
+          "(a, b, c) and HG conditions "
+        ],
+        "rois":[
+          {
+            "x":1375,
+            "y":1080,
+            "x2":1956,
+            "y2":1719
+          }
+        ]
+      },
+      "d":{
+        "descriptions":[
+          "(d, e, f). In normal glucose conditions ANXA1 protein is highly expressed in WS1 fibroblast cells and accumulates at the plasma membrane and at lamellipodial extrusions (arrows). An increase of glucose levels leads to a reduction of ANXA1 expression and inhibits the relocation of the protein to the plasma membrane "
+        ],
+        "rois":[
+          {
+            "x":48,
+            "y":1725,
+            "x2":1956,
+            "y2":2305
+          }
+        ]
+      }
+    }
+  },
+  "2444011":{
+    
+  },
+  "24641":{
+    
+  }
+}
