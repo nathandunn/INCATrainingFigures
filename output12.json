@@ -1,0 +1,351 @@
+2018.11.12 11:06:48 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 1641372/13242000=0.12395197100135931 is less than 0.4, skipping
+2018.11.12 11:06:48 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:06:52 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a)Levels of UCK2 mRNA expression in cells treated with increasing concentration of crude hexane (IC25: 10.52, IC50: 21.05, and IC75:42.1 \ufffd\ufffdg/mL) and chloroform (IC25: 9.5, IC50: 19.09, and IC75:38.18 \ufffd\ufffdg/mL) extracts; "[39m,
+      [32m"(a) Levels of UCK2 protein expression in cells treated with increasing concentration of crude hexane (IC25: 10.52, IC50: 21.05, and IC75:42.1 \ufffd\ufffdg/mL) and chloroform (IC25: 9.5, IC50: 19.09, and IC75:38.18 \ufffd\ufffdg/mL) extracts. "[39m,
+      [32m"(a) Crude hexane and chloroform extract, and "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1499[39m, [32m2206[39m))
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(b) Levels of UCK2 mRNA expressed in cells treated with FKB at 12.5 (3.55 \ufffd\ufffdg/mL), 25 (7.1 \ufffd\ufffdg/mL), and 50 \ufffd\ufffdM (14.2 \ufffd\ufffdg/mL); "[39m,
+      [32m"(b) Levels of UCK2 protein expressed in cells treated with FKB at a concentration of 12.5 (3.55 \ufffd\ufffdg/mL), 25 (7.1 \ufffd\ufffdg/mL), and 50 \ufffd\ufffdM (14.2 \ufffd\ufffdg/mL). "[39m,
+      [32m"(b) Bioactive compounds of FKB and APN;. DC: DMSO treated control at a final concentration of 0.1%. Data are expressed as Mean\ufffd\ufffdSD"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1499[39m, [32m2206[39m))
+  ),
+  [32m"c"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(c) Levels of UCK2 mRNA expressed in cells treated with APN at a concentration of 12.5 (3.37 \ufffd\ufffdg/mL), 25 (6.75 \ufffd\ufffdg/mL), and 50 \ufffd\ufffdM (13.5 \ufffd\ufffdg/mL). The housekeeping gene, GAPDH was used as loading control. C, Untreated control; D, DMSO used as negative control at a final concentration of 0.1%. (B) Western blot analysis of UCK2 protein expressed in HT-29 cells. "[39m,
+      [32m"(c) Levels of UCK2 protein expressed in cells treated with APN at a concentration of 12.5 (3.37 \ufffd\ufffdg/mL), 25 (6.75 \ufffd\ufffdg/mL), and 50 \ufffd\ufffdM (13.5 \ufffd\ufffdg/mL). (C) Levels of UCK2 protein expression quantified from western blotting analysis using Bio-rad Image Lab software in HT-29 cells treated with "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1499[39m, [32m2206[39m))
+  ),
+  [32m"ns"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"; ns: non-significant; *p"[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.12 11:06:53 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 1336636/6200000=0.2155864516129032 is less than 0.4, skipping
+2018.11.12 11:06:53 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:07:02 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a) crude hexane (IC25: 10.52, IC50: 21.05, and IC75:42.1 \ufffd\ufffdg/mL) and chloroform (IC25: 9.5, IC50: 19.09, and IC75:38.18 \ufffd\ufffdg/mL) extracts. "[39m,
+      [32m"(a) Hexane and chloroform extracts "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1549[39m, [32m999[39m))
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(b) 25 \ufffd\ufffdM (7.1 \ufffd\ufffdg/ mL) of FKB at different time interval. "[39m,
+      [32m"(b) FKB, and "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1549[39m, [32m999[39m))
+  ),
+  [32m"c"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(c) 25 \ufffd\ufffdM (6.75 \ufffd\ufffdg/mL) of APN at different time interval. (B) Level of MDM2 and p53 protein expression quantified from western blotting analysis using Bio-rad Image Lab software in HT 29 cells treated with "[39m,
+      [32m"(c) APN. Data are expressed as Mean\ufffd\ufffdSD"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1549[39m, [32m999[39m))
+  ),
+  [32m"ns"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"; ns: non-significant; *p"[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.12 11:07:03 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 1295980/6007800=0.2157162355604381 is less than 0.4, skipping
+2018.11.12 11:07:03 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:07:11 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"a"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(a) crude hexane (IC25: 10.52, IC50: 21.05, and IC75:42.1 \ufffd\ufffdg/mL) and chloroform (IC25: 9.5, IC50: 19.09, and IC75:38.18 \ufffd\ufffdg/mL) extracts. "[39m,
+      [32m"(a) Hexane and chloroform extracts "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1549[39m, [32m968[39m))
+  ),
+  [32m"b"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(b) FKB at a concentration of 12.5 (3.55 \ufffd\ufffdg/mL), 25 (7.1 \ufffd\ufffdg/mL), and 50 \ufffd\ufffdM (14.2 \ufffd\ufffdg/mL) and "[39m,
+      [32m"(b) FKB, and "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1549[39m, [32m968[39m))
+  ),
+  [32m"c"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(c) APN at a concentration of 12.5 (3.37 \ufffd\ufffdg/mL), 25 (6.75 \ufffd\ufffdg/mL), and 50 \ufffd\ufffdM (13.5 \ufffd\ufffdg/mL). (B) Levels of protein expression quantified from western blotting analysis using Bio-rad Image Lab software in HT-29 cells treated with "[39m,
+      [32m"(c) APN. Data are expressed as Mean\ufffd\ufffdSD"[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1549[39m, [32m968[39m))
+  ),
+  [32m"ns"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"; ns: non-significant; *p"[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.12 11:07:13 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 4179332/11345080=0.36838277032863587 is less than 0.4, skipping
+2018.11.12 11:07:13 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:07:19 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E). Susceptibility to benzopyrene-induced lung carcinogenesis was compared between the wild type and AIMP2-DX2 transgenic mice by tumor incidence "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  ),
+  [32m"F"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(F) and area "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) BPDE-transformed WI-26 cells with different expression ratio of AIMP2-DX2 to AIMP2-F were tested for their propensity to anchorage-independent colony formation. The relationship between the ratio of AIMP2-DX2 to AIMP2-F and the average numbers of the produced colonies with standard deviation in each colony were displayed as dot plot. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  ),
+  [32m"G"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(G). The area was represented by the numbers given in Bio-Image J 2.0. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) WI-26 cells stably expressing EV, AIMP2-F and -DX2 were also compared for anchorage-independent colony formation. The same numbers of the three cell lines (200 cells per plate) were spread on the testing medium and the resulting colonies were counted and shown as bar graph. The experiments were repeated three times. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) Two independent 12.5d MEFs were obtained from the wild type and AIMP2-DX2 transgenic mice and compared for the expression levels of p53 and phosphorylation status of p53. Expression of AIMP2-DX2 was also determined by Western blot analysis. Tubulin was used as a loading control. 12.5d MEFs isolated from the wild type and AIMP2-DX2 transgenic mice were treated with adriamycin (1 \ufffd\ufffdM) for 24 h and the sub-G1 populations induced by adriamycin treatment were determined by flow cytometry "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  ),
+  [32m"H"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(H) Three lungs were isolated from the wild type and AIMP2-DX2 transgenic mice and subjected to hematoxylin and eosin staining."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D). The cell growth in completed media was also monitored "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1566[39m, [32m1809[39m))
+  )
+)
+2018.11.12 11:07:25 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"J"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m" and IL-5 (J)"[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m699[39m, [32m1501[39m, [32m1287[39m, [32m1859[39m)
+    )
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"CFSE-labeled PBMCs isolated from healthy donors were pretreated for 24 hours without (white column, CTRL) or with GSC-derived exosomes (black column, GSC-EXO) and stimulated for 4 days with anti-CD3 and anti-CD28. (A)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m104[39m, [32m8[39m, [32m348[39m, [32m502[39m),
+      [33mBox[39m([32m730[39m, [32m523[39m, [32m1287[39m, [32m843[39m)
+    )
+  ),
+  [32m"I"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", TNF-\ufffd\ufffd (I)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m104[39m, [32m8[39m, [32m348[39m, [32m502[39m),
+      [33mBox[39m([32m11[39m, [32m1501[39m, [32m600[39m, [32m1859[39m)
+    )
+  ),
+  [32m"G"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m" T cells. (E-F) CD3+ T-cell expression of CD25 and CD69 was measured by flow cytometry on day 2. (G-L) PBMC-derived supernatants were harvested after 48 hours and used for ELISA with the Bio-plex cytokine assay system. Cytokines that showed statistically significant differences with the exosome treatment are reported. Concentration of IL-2 (G)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m10[39m, [32m1165[39m, [32m600[39m, [32m1516[39m),
+      [33mBox[39m([32m351[39m, [32m181[39m, [32m648[39m, [32m340[39m),
+      [33mBox[39m([32m11[39m, [32m1501[39m, [32m600[39m, [32m1859[39m)
+    )
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m" Representative microscope images and respective cytometry CFSE histograms, showing the fraction of proliferative CD3+ T cells, in unstimulated PBMCs (i), stimulated PBMCs (ii) and exosomes-treated stimulated PBMCs (iii). (B-D) Histograms showing, within the PBMCs, the fraction of proliferating CD3+ (B)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m349[39m, [32m10[39m, [32m722[39m, [32m178[39m),
+      [33mBox[39m([32m11[39m, [32m1501[39m, [32m600[39m, [32m1859[39m),
+      [33mBox[39m([32m710[39m, [32m89[39m, [32m1291[39m, [32m442[39m)
+    )
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m", CD4+ (C)"[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m10[39m, [32m353[39m, [32m722[39m, [32m843[39m),
+      [33mBox[39m([32m11[39m, [32m1501[39m, [32m600[39m, [32m1859[39m),
+      [33mBox[39m([32m710[39m, [32m89[39m, [32m1291[39m, [32m442[39m)
+    )
+  ),
+  [32m"H"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m", INF-\ufffd\ufffd (H)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m11[39m, [32m1501[39m, [32m600[39m, [32m1859[39m),
+      [33mBox[39m([32m694[39m, [32m1165[39m, [32m1287[39m, [32m1516[39m)
+    )
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m" and CD8+ (D)"[39m),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m11[39m, [32m828[39m, [32m600[39m, [32m1178[39m),
+      [33mBox[39m([32m351[39m, [32m181[39m, [32m648[39m, [32m340[39m),
+      [33mBox[39m([32m11[39m, [32m1501[39m, [32m600[39m, [32m1859[39m),
+      [33mBox[39m([32m699[39m, [32m828[39m, [32m1287[39m, [32m1178[39m)
+    )
+  )
+)
+2018.11.12 11:07:27 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 2776230/7285200=0.38107807609948935 is less than 0.4, skipping
+2018.11.12 11:07:27 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:07:31 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"66"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"Unstimulated PBMCs were incubated in the absence (white column, CTRL) or presence (black column, GSC-EXO) of GSC-derived exosomes. Incubation with LPS (square column) was used as monocyte stimulation positive control. Cells were surface stained with anti-CD14 and then stained to detect an intracellular level of IL-1\ufffd\ufffd, IL-6 and IL-10 by flow cytometry. (A-C)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m549[39m, [32m0[39m, [32m1012[39m, [32m280[39m),
+      [33mBox[39m([32m1013[39m, [32m0[39m, [32m1299[39m, [32m280[39m)
+    )
+  ),
+  [32m"56"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"Unstimulated PBMCs were incubated in the absence (white column, CTRL) or presence (black column, GSC-EXO) of GSC-derived exosomes. Incubation with LPS (square column) was used as monocyte stimulation positive control. Cells were surface stained with anti-CD14 and then stained to detect an intracellular level of IL-1\ufffd\ufffd, IL-6 and IL-10 by flow cytometry. (A-C)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m0[39m, [32m548[39m, [32m280[39m),
+      [33mBox[39m([32m549[39m, [32m0[39m, [32m1012[39m, [32m280[39m)
+    )
+  ),
+  [32m"76"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"Unstimulated PBMCs were incubated in the absence (white column, CTRL) or presence (black column, GSC-EXO) of GSC-derived exosomes. Incubation with LPS (square column) was used as monocyte stimulation positive control. Cells were surface stained with anti-CD14 and then stained to detect an intracellular level of IL-1\ufffd\ufffd, IL-6 and IL-10 by flow cytometry. (A-C)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m1013[39m, [32m0[39m, [32m1299[39m, [32m280[39m),
+      [33mBox[39m([32m0[39m, [32m281[39m, [32m1299[39m, [32m613[39m)
+    )
+  ),
+  [32m"96"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m" Representative FACS plot of the intracellular staining is shown by the indicated percentage of CD14+/IL-1\ufffd\ufffd+, CD14+/IL-6+ and CD14+/IL-10+ positive cells, respectively. (D-F)"[39m
+    ),
+    [33mList[39m()
+  ),
+  [32m"86"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m" Representative FACS plot of the intracellular staining is shown by the indicated percentage of CD14+/IL-1\ufffd\ufffd+, CD14+/IL-6+ and CD14+/IL-10+ positive cells, respectively. (D-F)"[39m
+    ),
+    [33mArrayBuffer[39m(
+      [33mBox[39m([32m0[39m, [32m614[39m, [32m1299[39m, [32m1400[39m),
+      [33mBox[39m([32m0[39m, [32m281[39m, [32m1299[39m, [32m613[39m)
+    )
+  ),
+  [32m"07"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m" Representative FACS plot of the intracellular staining is shown by the indicated percentage of CD14+/IL-1\ufffd\ufffd+, CD14+/IL-6+ and CD14+/IL-10+ positive cells, respectively. (D-F)"[39m
+    ),
+    [33mList[39m()
+  )
+)
+2018.11.12 11:07:36 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 12301569/38551456=0.3190947963158642 is less than 0.4, skipping
+2018.11.12 11:07:36 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:07:39 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Top panel: Representative western blot analysis of phosphorylated and total ERK2 in the stroma and walls of prehierarchical (P PRLR "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m3096[39m, [32m3111[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m([32m"(B) and StAR "[39m),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m3096[39m, [32m3111[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C) in granulosa cells treated without or with 10 ng/ml FSH, or together with the MEK inhibitor (1 \ufffd\ufffdM PD0325901) after a 4-h culture. Relative mRNA expression level was normalized to 18S rRNA. Data are expressed as fold differences \ufffd\ufffd SEM of three independent experiments using tissues from different hens and are compared to control cells. *, P #, P "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m3096[39m, [32m3111[39m))
+  )
+)
+2018.11.12 11:07:39 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/4577107/pone.0170409.g008.tif only has a single caption, no need to segment the image.
+2018.11.12 11:07:39 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/45815/1471-2229-6-33-5.jpg only has a single caption, no need to segment the image.
+2018.11.12 11:07:41 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 3038264/14530888=0.20909004322378646 is less than 0.4, skipping
+2018.11.12 11:07:41 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:07:44 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) Trace a1, to 2 mL of SR vesicles suspended at 0.04 mg protein/mL (together with 0.02 mg endogenous lipid/mL) in buffer A at 20?C, 0.6 mM EGTA "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1645[39m, [32m2206[39m))
+  ),
+  [32m"EG"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(EG) followed by 0.6 mM CaCl2 (Ca) were first added as controls, to illustrate the classical Ca2+-dependent changes in SERCA1a intrinsic fluorescence as well as the usual down-drift in fluorescence intensity accompanying such measurements (see Materials and Methods). SERCA1a was then solubilized by adding mixed DDM/egg PC micelles (D/L, containing the unbrominated lipid at a ratio of 5 g detergent/g lipid, i.e. ~7 mol/mol) at final concentrations of 0.4 and 0.08 mg/mL for DDM and egg PC, respectively. Mixed micelles with brominated lipids (D/BrL) were then added and this was followed by addition of excess DDM (to reach a final total DDM concentration of 4 mg/mL). For Trace a2, additions were performed first with brominated (D/BrL) and then with unbrominated (D/L) lipid. Traces a3 and a4 correspond to experiments similar to those in a1 and a2, respectively, but now measuring light scattering at 290 nm. "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1645[39m, [32m2206[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) In Traces b1 and b2, unbrominated lipid was used but DDM was replaced by 5,6-brominated DDM (BrD) at the same molar concentration. Traces here have not been corrected for dilution effects. This dilution effect only becomes somewhat significant when adding excess DDM at 3.2 mg/mL (32 ?L of a 200 mg/mL stock solution resulting in a 1.6% dilution). Numbers indicate the concentrations of detergent and lipid added at each step to the cuvette, in mg/mL. The cartoon on top depicts the principle of the experiment. Lipids are represented with a grey headgroup, detergent molecules are represented with a white headgroup and bromine ions are displayed as black dots. Each trace corresponds to one experiment representative of three independent experiments."[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m1645[39m, [32m2206[39m))
+  )
+)
+2018.11.12 11:07:44 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/458750/Figure_1.tif only has a single caption, no need to segment the image.
+2018.11.12 11:07:44 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/458816/Figure_2.tif only has a single caption, no need to segment the image.
+2018.11.12 11:07:44 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/458888/Figure_3.tif only has a single caption, no need to segment the image.
+2018.11.12 11:07:49 [main] WARN figtools.GappedImageSegmenter.segment:196:15 - Image segment area is 9444129/27845360=0.33916347283712617 is less than 0.4, skipping
+2018.11.12 11:07:49 [main] INFO figtools.EdgeDetectors.ImageJ.run:13:15 - running ImageJ edge detector, this may take some time...
+2018.11.12 11:07:51 [main] INFO figtools.AnalyzeImage.analyzeImages:388:17 - result=[33mMap[39m(
+  [32m"E"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(E). (n = 10/genotype, means ? SEM, 2-way ANOVA for locomotor assessment, unpaired Student's t-test for inclined grid, *p "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2619[39m, [32m2656[39m))
+  ),
+  [32m"A"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(A) and PAR-1 null mice "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2619[39m, [32m2656[39m))
+  ),
+  [32m"B"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(B) 42 days post injury as well as that of the uninjured PAR-1 null mice "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2619[39m, [32m2656[39m))
+  ),
+  [32m"C"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(C). After spinal cord injury, dragging of the hindlimbs with poor coordination is evident in the wild-type mice, whereas considerable improvement with weight-bearing stepping and slight external rotation of the hindpaws is consistent in the PAR-1 null mice. Injured PAR-1 null mice also show significant locomotor recovery, assessed by the Basso Mouse Scale, as compared to the wild-type mice "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2619[39m, [32m2656[39m))
+  ),
+  [32m"D"[39m -> [33mLabelResult[39m(
+    [33mArrayBuffer[39m(
+      [32m"(D). This result parallels the better performance of PAR-1 null mice on the inclined grid "[39m
+    ),
+    [33mArrayBuffer[39m([33mBox[39m([32m0[39m, [32m0[39m, [32m2619[39m, [32m2656[39m))
+  )
+)
+2018.11.12 11:07:51 [main] WARN figtools.AnalyzeImage.analyzeImages:163:19 - File /Users/nathandunn/repositories/figtools/bin/figures/458956/Figure_4.tif only has a single caption, no need to segment the image.
