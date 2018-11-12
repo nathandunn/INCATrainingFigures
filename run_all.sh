@@ -2,7 +2,7 @@
 
 
 #../figtools analyze --json `cat 1.txt` > output1.json
-../figtools analyze --json `cat 2.txt` > output2.json
+#../figtools analyze --json `cat 2.txt` > output2.json
 #../figtools analyze --json `cat 2.txt` > output2.json
 #../figtools analyze --json `cat 3.txt` > output3.json
 #../figtools analyze --json `cat 4.txt` > output4.json
@@ -17,5 +17,5 @@
 #../figtools analyze --json `cat 13.txt` > output13.json
 #../figtools analyze --json `cat 14.txt` > output14.json
 #../figtools analyze --json `cat 15.txt` > output15.json
-../figtools analyze --json `cat 16.txt` > output16.json
+#../figtools analyze --json `cat 16.txt` > output16.json
 #../figtools analyze --json `cat 17.txt` > output17.json
